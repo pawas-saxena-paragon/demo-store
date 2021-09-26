@@ -9,7 +9,7 @@ const initialState: ProductState = {
 };
 
 export const fetchAsync = createAsyncThunk('productList/fetchAllProducts', async () => {
-  const response = await fetchAllProducts();
+  const response = await fetchAllProducts(0);
   return response.data;
 });
 

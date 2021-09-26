@@ -8,7 +8,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 2002,
     car_vin: 'SAJWJ0FF3F8321657',
-    price: '$2814.46',
+    price: '2814.46',
     availability: false,
   },
   {
@@ -18,7 +18,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2008,
     car_vin: 'WBANV9C51AC203320',
-    price: '$1731.98',
+    price: '1731.98',
     availability: false,
   },
   {
@@ -28,7 +28,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2003,
     car_vin: '1HGCR6F34EA246317',
-    price: '$2238.35',
+    price: '2238.35',
     availability: true,
   },
   {
@@ -38,7 +38,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2012,
     car_vin: '4USBT33454L511606',
-    price: '$2732.99',
+    price: '2732.99',
     availability: false,
   },
   {
@@ -48,7 +48,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2002,
     car_vin: 'WAU2GBFCXDN339713',
-    price: '$3849.47',
+    price: '3849.47',
     availability: false,
   },
   {
@@ -58,7 +58,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2009,
     car_vin: 'WAUSH98E96A592763',
-    price: '$1252.30',
+    price: '1252.30',
     availability: false,
   },
   {
@@ -68,7 +68,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1994,
     car_vin: 'KNADH4A37A6919967',
-    price: '$1762.42',
+    price: '1762.42',
     availability: true,
   },
   {
@@ -78,7 +78,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2004,
     car_vin: '5GTMNGEE8A8713093',
-    price: '$1081.40',
+    price: '1081.40',
     availability: true,
   },
   {
@@ -88,7 +88,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2008,
     car_vin: '5TDBY5G16DS675822',
-    price: '$1258.99',
+    price: '1258.99',
     availability: true,
   },
   {
@@ -98,7 +98,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1994,
     car_vin: 'JM1NC2PFXE0140518',
-    price: '$3822.92',
+    price: '3822.92',
     availability: false,
   },
   {
@@ -108,7 +108,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2010,
     car_vin: 'WAUNE78P18A342660',
-    price: '$3963.20',
+    price: '3963.20',
     availability: true,
   },
   {
@@ -118,7 +118,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2012,
     car_vin: 'WA1WYBFE2AD448505',
-    price: '$1144.27',
+    price: '1144.27',
     availability: true,
   },
   {
@@ -128,7 +128,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1989,
     car_vin: '4A4AP3AU8FE713946',
-    price: '$1386.49',
+    price: '1386.49',
     availability: true,
   },
   {
@@ -138,7 +138,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2012,
     car_vin: 'WAUHGBFC9DN768366',
-    price: '$1366.96',
+    price: '1366.96',
     availability: true,
   },
   {
@@ -148,7 +148,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 2006,
     car_vin: 'WA1AV74L67D649365',
-    price: '$1221.46',
+    price: '1221.46',
     availability: false,
   },
   {
@@ -158,7 +158,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1996,
     car_vin: '1FMJK2A5XAE576485',
-    price: '$1877.63',
+    price: '1877.63',
     availability: true,
   },
   {
@@ -168,7 +168,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2003,
     car_vin: 'WAUVC68E02A369838',
-    price: '$2646.55',
+    price: '2646.55',
     availability: true,
   },
   {
@@ -178,7 +178,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 2012,
     car_vin: 'WA1YD54B63N613712',
-    price: '$2076.03',
+    price: '2076.03',
     availability: true,
   },
   {
@@ -188,7 +188,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 1999,
     car_vin: 'WAUMF98P66A420495',
-    price: '$1323.48',
+    price: '1323.48',
     availability: true,
   },
   {
@@ -198,7 +198,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 2002,
     car_vin: 'WAUUL58E15A338821',
-    price: '$1801.89',
+    price: '1801.89',
     availability: false,
   },
   {
@@ -208,7 +208,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1996,
     car_vin: 'WAUDH98E78A844182',
-    price: '$2716.12',
+    price: '2716.12',
     availability: true,
   },
   {
@@ -218,7 +218,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 2010,
     car_vin: '5XXGM4A71CG888959',
-    price: '$3480.31',
+    price: '3480.31',
     availability: false,
   },
   {
@@ -228,7 +228,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 1991,
     car_vin: '2FMPK3J94FB631826',
-    price: '$1660.01',
+    price: '1660.01',
     availability: false,
   },
   {
@@ -238,7 +238,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1996,
     car_vin: '5TDDCRFH8FS931829',
-    price: '$3532.17',
+    price: '3532.17',
     availability: false,
   },
   {
@@ -248,7 +248,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2000,
     car_vin: 'WAUUL78E45A616915',
-    price: '$1645.81',
+    price: '1645.81',
     availability: true,
   },
   {
@@ -258,7 +258,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2002,
     car_vin: '5N1AN0NU9BC466461',
-    price: '$3464.94',
+    price: '3464.94',
     availability: true,
   },
   {
@@ -268,7 +268,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 2006,
     car_vin: 'JHMZF1D63ES995796',
-    price: '$1506.90',
+    price: '1506.90',
     availability: false,
   },
   {
@@ -278,7 +278,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1991,
     car_vin: '1G6DK8EY0B0373831',
-    price: '$1061.74',
+    price: '1061.74',
     availability: false,
   },
   {
@@ -288,7 +288,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 1995,
     car_vin: 'WBAKA4C56CC120857',
-    price: '$1828.44',
+    price: '1828.44',
     availability: false,
   },
   {
@@ -298,7 +298,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2002,
     car_vin: '1D7RE3BK4AS603019',
-    price: '$2911.93',
+    price: '2911.93',
     availability: false,
   },
   {
@@ -308,7 +308,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1997,
     car_vin: '1D7CE3BK0AS555394',
-    price: '$3894.12',
+    price: '3894.12',
     availability: true,
   },
   {
@@ -318,7 +318,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2004,
     car_vin: 'KMHD35LH2FU144301',
-    price: '$2799.57',
+    price: '2799.57',
     availability: true,
   },
   {
@@ -328,7 +328,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1992,
     car_vin: '1G6KF57901U666328',
-    price: '$1629.85',
+    price: '1629.85',
     availability: false,
   },
   {
@@ -338,7 +338,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1998,
     car_vin: 'WBAFR1C52BD688976',
-    price: '$3559.47',
+    price: '3559.47',
     availability: true,
   },
   {
@@ -348,7 +348,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1998,
     car_vin: 'JTDKN3DU1B0728650',
-    price: '$1468.79',
+    price: '1468.79',
     availability: true,
   },
   {
@@ -358,7 +358,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2007,
     car_vin: 'WAUJT54B44N616083',
-    price: '$2477.77',
+    price: '2477.77',
     availability: false,
   },
   {
@@ -368,7 +368,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1991,
     car_vin: '1N4AL2AP1BN203395',
-    price: '$3968.20',
+    price: '3968.20',
     availability: false,
   },
   {
@@ -378,7 +378,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2008,
     car_vin: 'WBAPK53549A473174',
-    price: '$1437.86',
+    price: '1437.86',
     availability: false,
   },
   {
@@ -388,7 +388,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1993,
     car_vin: '1G6KF57925U041547',
-    price: '$1341.78',
+    price: '1341.78',
     availability: true,
   },
   {
@@ -398,7 +398,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1985,
     car_vin: 'WA1AY74L08D036800',
-    price: '$2139.19',
+    price: '2139.19',
     availability: true,
   },
   {
@@ -408,7 +408,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2002,
     car_vin: '4A4AP3AU7FE541022',
-    price: '$2887.16',
+    price: '2887.16',
     availability: true,
   },
   {
@@ -418,7 +418,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2006,
     car_vin: '1D7RB1CP5AS798832',
-    price: '$3042.96',
+    price: '3042.96',
     availability: true,
   },
   {
@@ -428,7 +428,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2005,
     car_vin: '1LNHL9DR9BG913773',
-    price: '$1238.19',
+    price: '1238.19',
     availability: false,
   },
   {
@@ -438,7 +438,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2006,
     car_vin: 'WBALM5C52AE771888',
-    price: '$3879.67',
+    price: '3879.67',
     availability: true,
   },
   {
@@ -448,7 +448,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2011,
     car_vin: '2D4JN1AGXBR156369',
-    price: '$3567.25',
+    price: '3567.25',
     availability: true,
   },
   {
@@ -458,7 +458,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1996,
     car_vin: 'WAUGL68E25A756856',
-    price: '$3217.31',
+    price: '3217.31',
     availability: true,
   },
   {
@@ -468,7 +468,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2006,
     car_vin: '1N6AF0LY5EN597447',
-    price: '$2437.81',
+    price: '2437.81',
     availability: false,
   },
   {
@@ -478,7 +478,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2012,
     car_vin: 'WAUGFAFR1DA381976',
-    price: '$2455.81',
+    price: '2455.81',
     availability: false,
   },
   {
@@ -488,7 +488,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 1994,
     car_vin: '1GD312CG5CF627983',
-    price: '$2112.12',
+    price: '2112.12',
     availability: false,
   },
   {
@@ -498,7 +498,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2000,
     car_vin: '3C63DPML9CG620139',
-    price: '$3595.67',
+    price: '3595.67',
     availability: false,
   },
   {
@@ -508,7 +508,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1992,
     car_vin: '4T1BF1FK9EU758825',
-    price: '$3642.50',
+    price: '3642.50',
     availability: true,
   },
   {
@@ -518,7 +518,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2008,
     car_vin: '1FTFW1E87AF978553',
-    price: '$1150.48',
+    price: '1150.48',
     availability: true,
   },
   {
@@ -528,7 +528,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2005,
     car_vin: 'WVWED7AJ4DW800765',
-    price: '$2308.71',
+    price: '2308.71',
     availability: true,
   },
   {
@@ -538,7 +538,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1992,
     car_vin: 'WVWEU9AN6AE112654',
-    price: '$3523.87',
+    price: '3523.87',
     availability: true,
   },
   {
@@ -548,7 +548,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2009,
     car_vin: '3GYT4NEF2DG431298',
-    price: '$1668.89',
+    price: '1668.89',
     availability: true,
   },
   {
@@ -558,7 +558,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2011,
     car_vin: '2HNYD28738H773678',
-    price: '$3564.30',
+    price: '3564.30',
     availability: true,
   },
   {
@@ -568,7 +568,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 1998,
     car_vin: 'WAULV44E47N641626',
-    price: '$3866.51',
+    price: '3866.51',
     availability: true,
   },
   {
@@ -578,7 +578,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1996,
     car_vin: '2G4WB55K111092037',
-    price: '$3045.06',
+    price: '3045.06',
     availability: true,
   },
   {
@@ -588,7 +588,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2002,
     car_vin: '3D7JB1EPXAG321542',
-    price: '$1652.75',
+    price: '1652.75',
     availability: true,
   },
   {
@@ -598,7 +598,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2010,
     car_vin: '2FMDK3GC4AB714669',
-    price: '$3702.14',
+    price: '3702.14',
     availability: true,
   },
   {
@@ -608,7 +608,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2005,
     car_vin: 'WBAEK73495B976911',
-    price: '$3330.66',
+    price: '3330.66',
     availability: false,
   },
   {
@@ -618,7 +618,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2005,
     car_vin: 'JN8AZ1MUXEW948606',
-    price: '$1498.82',
+    price: '1498.82',
     availability: true,
   },
   {
@@ -628,7 +628,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1994,
     car_vin: '5LMJJ2H51DE856700',
-    price: '$2063.98',
+    price: '2063.98',
     availability: false,
   },
   {
@@ -638,7 +638,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1992,
     car_vin: 'JN8AZ2NC2F9884105',
-    price: '$2802.49',
+    price: '2802.49',
     availability: false,
   },
   {
@@ -648,7 +648,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2007,
     car_vin: 'WAUJFAFH1DN066052',
-    price: '$2462.45',
+    price: '2462.45',
     availability: false,
   },
   {
@@ -658,7 +658,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2010,
     car_vin: 'KMHHT6KD4CU061471',
-    price: '$1315.98',
+    price: '1315.98',
     availability: true,
   },
   {
@@ -668,7 +668,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2007,
     car_vin: '2G4WF551531515507',
-    price: '$3011.10',
+    price: '3011.10',
     availability: false,
   },
   {
@@ -678,7 +678,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2012,
     car_vin: '3D4PG6FV3AT242143',
-    price: '$1419.38',
+    price: '1419.38',
     availability: false,
   },
   {
@@ -688,7 +688,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2008,
     car_vin: '1G6DP577870103936',
-    price: '$1407.10',
+    price: '1407.10',
     availability: false,
   },
   {
@@ -698,7 +698,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2001,
     car_vin: '5N1AA0NC3DN401888',
-    price: '$2508.52',
+    price: '2508.52',
     availability: true,
   },
   {
@@ -708,7 +708,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1992,
     car_vin: '5NPDH4AE3DH626081',
-    price: '$1700.50',
+    price: '1700.50',
     availability: false,
   },
   {
@@ -718,7 +718,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2012,
     car_vin: 'KNDJN2A21F7706444',
-    price: '$1231.67',
+    price: '1231.67',
     availability: false,
   },
   {
@@ -728,7 +728,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2007,
     car_vin: 'WAUTFAFH1CN253945',
-    price: '$1185.92',
+    price: '1185.92',
     availability: false,
   },
   {
@@ -738,7 +738,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1996,
     car_vin: 'WAUMFBFL7DN961584',
-    price: '$2065.93',
+    price: '2065.93',
     availability: true,
   },
   {
@@ -748,7 +748,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1995,
     car_vin: 'WDDHF2EB6CA516312',
-    price: '$2054.55',
+    price: '2054.55',
     availability: true,
   },
   {
@@ -758,7 +758,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2012,
     car_vin: 'WBABN73423P498440',
-    price: '$1500.26',
+    price: '1500.26',
     availability: false,
   },
   {
@@ -768,7 +768,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1995,
     car_vin: '1FMEU7DE4AU871463',
-    price: '$3864.08',
+    price: '3864.08',
     availability: true,
   },
   {
@@ -778,7 +778,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2000,
     car_vin: 'WAUDT48H26K307934',
-    price: '$2886.85',
+    price: '2886.85',
     availability: false,
   },
   {
@@ -788,7 +788,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2007,
     car_vin: 'WAUUL98E46A029305',
-    price: '$1089.89',
+    price: '1089.89',
     availability: false,
   },
   {
@@ -798,7 +798,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 2009,
     car_vin: 'KMHTC6AD9EU079642',
-    price: '$1897.01',
+    price: '1897.01',
     availability: false,
   },
   {
@@ -808,7 +808,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2011,
     car_vin: '5NPDH4AE3FH402697',
-    price: '$1401.49',
+    price: '1401.49',
     availability: false,
   },
   {
@@ -818,7 +818,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 2004,
     car_vin: 'KNDPB3A20B7837660',
-    price: '$1367.44',
+    price: '1367.44',
     availability: true,
   },
   {
@@ -828,7 +828,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 2006,
     car_vin: '1GKKRNED0DJ826326',
-    price: '$3051.68',
+    price: '3051.68',
     availability: false,
   },
   {
@@ -838,7 +838,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 1992,
     car_vin: 'WBAEW53424P914812',
-    price: '$1186.54',
+    price: '1186.54',
     availability: true,
   },
   {
@@ -848,7 +848,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 1994,
     car_vin: 'JHMZF1C44CS019846',
-    price: '$1209.90',
+    price: '1209.90',
     availability: true,
   },
   {
@@ -858,7 +858,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1997,
     car_vin: 'JTDKDTB34F1336579',
-    price: '$2986.94',
+    price: '2986.94',
     availability: false,
   },
   {
@@ -868,7 +868,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 1961,
     car_vin: 'SCFAD22353K691631',
-    price: '$3783.62',
+    price: '3783.62',
     availability: true,
   },
   {
@@ -878,7 +878,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2000,
     car_vin: '1G6DL8E36D0269297',
-    price: '$1312.27',
+    price: '1312.27',
     availability: true,
   },
   {
@@ -888,7 +888,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 1994,
     car_vin: 'WP0AA2A92FS592332',
-    price: '$1946.73',
+    price: '1946.73',
     availability: true,
   },
   {
@@ -898,7 +898,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1998,
     car_vin: 'WBAVB73517F584929',
-    price: '$3748.78',
+    price: '3748.78',
     availability: true,
   },
   {
@@ -908,7 +908,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2009,
     car_vin: 'WVGAV7AX5FW407579',
-    price: '$3914.79',
+    price: '3914.79',
     availability: false,
   },
   {
@@ -918,7 +918,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 1999,
     car_vin: 'YV1612FH2E2873271',
-    price: '$3001.79',
+    price: '3001.79',
     availability: true,
   },
   {
@@ -928,7 +928,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1998,
     car_vin: '1D7RB1GT1BS878251',
-    price: '$3471.12',
+    price: '3471.12',
     availability: false,
   },
   {
@@ -938,7 +938,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2007,
     car_vin: 'YV4902BZ3B1046673',
-    price: '$2195.59',
+    price: '2195.59',
     availability: false,
   },
   {
@@ -948,7 +948,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1997,
     car_vin: 'WAUHF98P88A144132',
-    price: '$1981.14',
+    price: '1981.14',
     availability: true,
   },
   {
@@ -958,7 +958,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2006,
     car_vin: 'YV1902AH3D1119632',
-    price: '$1937.08',
+    price: '1937.08',
     availability: false,
   },
   {
@@ -968,7 +968,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2002,
     car_vin: 'KMHFG4JG3FA418690',
-    price: '$1934.78',
+    price: '1934.78',
     availability: false,
   },
   {
@@ -978,7 +978,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2003,
     car_vin: '1N6AD0CU7DN643894',
-    price: '$3202.99',
+    price: '3202.99',
     availability: true,
   },
   {
@@ -988,7 +988,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 1994,
     car_vin: '1FTEX1C81AK728857',
-    price: '$1245.14',
+    price: '1245.14',
     availability: true,
   },
   {
@@ -998,7 +998,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2012,
     car_vin: 'KMHTC6AD4DU412781',
-    price: '$2987.01',
+    price: '2987.01',
     availability: true,
   },
   {
@@ -1008,7 +1008,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1994,
     car_vin: 'JTDBT4K34B1478630',
-    price: '$1463.19',
+    price: '1463.19',
     availability: false,
   },
   {
@@ -1018,7 +1018,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 1986,
     car_vin: 'SALCT2BG1FH782368',
-    price: '$1446.60',
+    price: '1446.60',
     availability: true,
   },
   {
@@ -1028,7 +1028,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 1996,
     car_vin: '1G4GC5GG1AF424755',
-    price: '$2922.12',
+    price: '2922.12',
     availability: true,
   },
   {
@@ -1038,7 +1038,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2007,
     car_vin: 'SCBZB25E22C226384',
-    price: '$3525.90',
+    price: '3525.90',
     availability: false,
   },
   {
@@ -1048,7 +1048,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2000,
     car_vin: '19XFA1F34AE999844',
-    price: '$2770.75',
+    price: '2770.75',
     availability: true,
   },
   {
@@ -1058,7 +1058,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1998,
     car_vin: 'JTDKN3DU5A0015197',
-    price: '$2849.20',
+    price: '2849.20',
     availability: true,
   },
   {
@@ -1068,7 +1068,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1998,
     car_vin: '1G4GB5ER1CF288010',
-    price: '$1148.41',
+    price: '1148.41',
     availability: false,
   },
   {
@@ -1078,7 +1078,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 1994,
     car_vin: '2G4GT5GX0F9136662',
-    price: '$2145.70',
+    price: '2145.70',
     availability: false,
   },
   {
@@ -1088,7 +1088,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2012,
     car_vin: 'JHMZF1D44ES383055',
-    price: '$1303.46',
+    price: '1303.46',
     availability: false,
   },
   {
@@ -1098,7 +1098,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2000,
     car_vin: 'JTHBL5EF7F5113545',
-    price: '$3560.16',
+    price: '3560.16',
     availability: true,
   },
   {
@@ -1108,7 +1108,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2005,
     car_vin: 'WBAAX13453P006969',
-    price: '$3212.46',
+    price: '3212.46',
     availability: true,
   },
   {
@@ -1118,7 +1118,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2007,
     car_vin: 'JM3ER2A59C0692806',
-    price: '$2531.06',
+    price: '2531.06',
     availability: true,
   },
   {
@@ -1128,7 +1128,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1997,
     car_vin: 'SCFFDAAE0AG033573',
-    price: '$3637.72',
+    price: '3637.72',
     availability: true,
   },
   {
@@ -1138,7 +1138,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2002,
     car_vin: 'WBASP2C50BC056803',
-    price: '$1084.80',
+    price: '1084.80',
     availability: true,
   },
   {
@@ -1148,7 +1148,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2009,
     car_vin: '3D7TT2CTXBG246063',
-    price: '$3405.99',
+    price: '3405.99',
     availability: true,
   },
   {
@@ -1158,7 +1158,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2007,
     car_vin: '5FRYD3H26GB756960',
-    price: '$2361.57',
+    price: '2361.57',
     availability: true,
   },
   {
@@ -1168,7 +1168,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1993,
     car_vin: '4USBU33528L100448',
-    price: '$2277.25',
+    price: '2277.25',
     availability: false,
   },
   {
@@ -1178,7 +1178,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2011,
     car_vin: 'WP1AE2A21EL640995',
-    price: '$3910.90',
+    price: '3910.90',
     availability: true,
   },
   {
@@ -1188,7 +1188,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2010,
     car_vin: '5J8TB1H2XCA888873',
-    price: '$2793.04',
+    price: '2793.04',
     availability: false,
   },
   {
@@ -1198,7 +1198,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2005,
     car_vin: 'WBAKB4C53CC732950',
-    price: '$1166.24',
+    price: '1166.24',
     availability: false,
   },
   {
@@ -1208,7 +1208,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2009,
     car_vin: 'WBANB33525B263379',
-    price: '$2136.36',
+    price: '2136.36',
     availability: false,
   },
   {
@@ -1218,7 +1218,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2002,
     car_vin: '5TFCY5F17DX076265',
-    price: '$1750.74',
+    price: '1750.74',
     availability: false,
   },
   {
@@ -1228,7 +1228,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2007,
     car_vin: 'WAUAH94F37N462773',
-    price: '$1686.33',
+    price: '1686.33',
     availability: false,
   },
   {
@@ -1238,7 +1238,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2010,
     car_vin: '19UUA9F59EA395577',
-    price: '$2616.48',
+    price: '2616.48',
     availability: true,
   },
   {
@@ -1248,7 +1248,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2011,
     car_vin: '1G6KD57958U035977',
-    price: '$3716.72',
+    price: '3716.72',
     availability: true,
   },
   {
@@ -1258,7 +1258,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1995,
     car_vin: '3FA6P0LU8DR793712',
-    price: '$1344.50',
+    price: '1344.50',
     availability: true,
   },
   {
@@ -1268,7 +1268,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1986,
     car_vin: 'JN1EY1AP6DM106941',
-    price: '$3741.61',
+    price: '3741.61',
     availability: false,
   },
   {
@@ -1278,7 +1278,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1989,
     car_vin: '1GTN2TEH8FZ917451',
-    price: '$3214.22',
+    price: '3214.22',
     availability: false,
   },
   {
@@ -1288,7 +1288,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1996,
     car_vin: 'WP0CA2A89CS944625',
-    price: '$1432.28',
+    price: '1432.28',
     availability: false,
   },
   {
@@ -1298,7 +1298,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2009,
     car_vin: 'WA1LGAFE0DD930636',
-    price: '$1552.12',
+    price: '1552.12',
     availability: true,
   },
   {
@@ -1308,7 +1308,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2004,
     car_vin: 'WA1LGAFEXBD599495',
-    price: '$1794.74',
+    price: '1794.74',
     availability: false,
   },
   {
@@ -1318,7 +1318,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1992,
     car_vin: 'JN8AE2KP2B9680546',
-    price: '$1895.74',
+    price: '1895.74',
     availability: true,
   },
   {
@@ -1328,7 +1328,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1997,
     car_vin: '1G6DV57V480341708',
-    price: '$3282.08',
+    price: '3282.08',
     availability: false,
   },
   {
@@ -1338,7 +1338,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1989,
     car_vin: '5TFBW5F15BX898397',
-    price: '$1249.75',
+    price: '1249.75',
     availability: true,
   },
   {
@@ -1348,7 +1348,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1994,
     car_vin: '1D7RW7GP3AS040117',
-    price: '$3915.36',
+    price: '3915.36',
     availability: false,
   },
   {
@@ -1358,7 +1358,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1995,
     car_vin: 'WBABV13426J951833',
-    price: '$1332.26',
+    price: '1332.26',
     availability: true,
   },
   {
@@ -1368,7 +1368,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1994,
     car_vin: 'WP0AB2A93FS495329',
-    price: '$3742.20',
+    price: '3742.20',
     availability: false,
   },
   {
@@ -1378,7 +1378,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1992,
     car_vin: 'WBAVB33566K192933',
-    price: '$1030.39',
+    price: '1030.39',
     availability: true,
   },
   {
@@ -1388,7 +1388,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2010,
     car_vin: 'KNADH4A39B6604962',
-    price: '$3135.57',
+    price: '3135.57',
     availability: true,
   },
   {
@@ -1398,7 +1398,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2001,
     car_vin: 'WP0CA2A82AS171509',
-    price: '$3802.52',
+    price: '3802.52',
     availability: false,
   },
   {
@@ -1408,7 +1408,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1995,
     car_vin: 'YV4940BZ0D1607990',
-    price: '$2842.63',
+    price: '2842.63',
     availability: false,
   },
   {
@@ -1418,7 +1418,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1992,
     car_vin: '1GKKRNED9CJ890492',
-    price: '$2302.23',
+    price: '2302.23',
     availability: false,
   },
   {
@@ -1428,7 +1428,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2008,
     car_vin: '2C3CDXCT5DH145203',
-    price: '$2299.79',
+    price: '2299.79',
     availability: false,
   },
   {
@@ -1438,7 +1438,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2004,
     car_vin: 'WA1WKBFP7CA068180',
-    price: '$1162.25',
+    price: '1162.25',
     availability: true,
   },
   {
@@ -1448,7 +1448,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2004,
     car_vin: '5UXWX7C50DL593142',
-    price: '$1593.55',
+    price: '1593.55',
     availability: true,
   },
   {
@@ -1458,7 +1458,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2011,
     car_vin: '2HNYD186X3H577070',
-    price: '$1725.72',
+    price: '1725.72',
     availability: true,
   },
   {
@@ -1468,7 +1468,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1989,
     car_vin: '1N6AA0CA0FN020019',
-    price: '$1495.38',
+    price: '1495.38',
     availability: false,
   },
   {
@@ -1478,7 +1478,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2004,
     car_vin: 'SCBBR9ZA5AC141826',
-    price: '$3633.12',
+    price: '3633.12',
     availability: true,
   },
   {
@@ -1488,7 +1488,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2008,
     car_vin: 'JH4CU2F69AC989200',
-    price: '$1751.58',
+    price: '1751.58',
     availability: false,
   },
   {
@@ -1498,7 +1498,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1996,
     car_vin: '5FNYF3H29FB557072',
-    price: '$3359.50',
+    price: '3359.50',
     availability: false,
   },
   {
@@ -1508,7 +1508,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1999,
     car_vin: 'JTEBU5JRXE5012914',
-    price: '$2011.84',
+    price: '2011.84',
     availability: true,
   },
   {
@@ -1518,7 +1518,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2011,
     car_vin: 'WAUHFAFL9AN433164',
-    price: '$3781.78',
+    price: '3781.78',
     availability: true,
   },
   {
@@ -1528,7 +1528,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1997,
     car_vin: 'JTJHY7AX0D4205734',
-    price: '$3427.05',
+    price: '3427.05',
     availability: true,
   },
   {
@@ -1538,7 +1538,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2006,
     car_vin: 'JA32U2FUXFU470149',
-    price: '$2167.72',
+    price: '2167.72',
     availability: true,
   },
   {
@@ -1548,7 +1548,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2010,
     car_vin: '3D73Y3HL2BG834703',
-    price: '$1116.87',
+    price: '1116.87',
     availability: false,
   },
   {
@@ -1558,7 +1558,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 2006,
     car_vin: '4T1BF1FK7CU557535',
-    price: '$1124.01',
+    price: '1124.01',
     availability: true,
   },
   {
@@ -1568,7 +1568,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2011,
     car_vin: '1G6DP577X60160718',
-    price: '$1649.82',
+    price: '1649.82',
     availability: false,
   },
   {
@@ -1578,7 +1578,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 1996,
     car_vin: 'JTHBL5EF2D5656895',
-    price: '$2549.51',
+    price: '2549.51',
     availability: false,
   },
   {
@@ -1588,7 +1588,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1995,
     car_vin: '3D7TT2CT5BG306542',
-    price: '$3597.01',
+    price: '3597.01',
     availability: false,
   },
   {
@@ -1598,7 +1598,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1993,
     car_vin: '2T1BURHE6EC850827',
-    price: '$2101.71',
+    price: '2101.71',
     availability: true,
   },
   {
@@ -1608,7 +1608,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 1994,
     car_vin: 'VNKKTUD3XFA102086',
-    price: '$1462.76',
+    price: '1462.76',
     availability: true,
   },
   {
@@ -1618,7 +1618,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1991,
     car_vin: 'WBXPA93466W510084',
-    price: '$3109.46',
+    price: '3109.46',
     availability: true,
   },
   {
@@ -1628,7 +1628,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 2012,
     car_vin: 'JA4AD2A30EZ420447',
-    price: '$3368.98',
+    price: '3368.98',
     availability: false,
   },
   {
@@ -1638,7 +1638,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2012,
     car_vin: '5N1BA0NE2FN501313',
-    price: '$3488.55',
+    price: '3488.55',
     availability: true,
   },
   {
@@ -1648,7 +1648,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2010,
     car_vin: 'JH4NA21675S735229',
-    price: '$1542.98',
+    price: '1542.98',
     availability: true,
   },
   {
@@ -1658,7 +1658,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2008,
     car_vin: 'WBASN4C54CC723553',
-    price: '$1678.31',
+    price: '1678.31',
     availability: false,
   },
   {
@@ -1668,7 +1668,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1992,
     car_vin: 'JTEBU5JR0C5720506',
-    price: '$1946.80',
+    price: '1946.80',
     availability: false,
   },
   {
@@ -1678,7 +1678,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1966,
     car_vin: 'JH4DC54882C528777',
-    price: '$2925.66',
+    price: '2925.66',
     availability: true,
   },
   {
@@ -1688,7 +1688,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2010,
     car_vin: 'KNDKG3A25A7704659',
-    price: '$2375.61',
+    price: '2375.61',
     availability: false,
   },
   {
@@ -1698,7 +1698,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1984,
     car_vin: '1G6D05EG8A0247050',
-    price: '$2398.08',
+    price: '2398.08',
     availability: true,
   },
   {
@@ -1708,7 +1708,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 1992,
     car_vin: 'JA32X2HU2DU889582',
-    price: '$1319.48',
+    price: '1319.48',
     availability: true,
   },
   {
@@ -1718,7 +1718,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2005,
     car_vin: '1N6AD0CW8FN390377',
-    price: '$3912.57',
+    price: '3912.57',
     availability: false,
   },
   {
@@ -1728,7 +1728,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2008,
     car_vin: '1YVHZ8BA4A5783965',
-    price: '$3078.29',
+    price: '3078.29',
     availability: false,
   },
   {
@@ -1738,7 +1738,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1994,
     car_vin: '1LNHL9DK1FG227901',
-    price: '$3293.49',
+    price: '3293.49',
     availability: false,
   },
   {
@@ -1748,7 +1748,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1993,
     car_vin: '1C4SDHCT1EC981866',
-    price: '$1238.66',
+    price: '1238.66',
     availability: true,
   },
   {
@@ -1758,7 +1758,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1993,
     car_vin: 'WVWAB7AJ1CW552784',
-    price: '$3723.56',
+    price: '3723.56',
     availability: false,
   },
   {
@@ -1768,7 +1768,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2012,
     car_vin: '2HNYD28208H419184',
-    price: '$2925.89',
+    price: '2925.89',
     availability: true,
   },
   {
@@ -1778,7 +1778,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 1995,
     car_vin: 'WAUVT68EX4A400726',
-    price: '$2095.57',
+    price: '2095.57',
     availability: true,
   },
   {
@@ -1788,7 +1788,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2001,
     car_vin: '1G6AL1R30F0656886',
-    price: '$1194.42',
+    price: '1194.42',
     availability: true,
   },
   {
@@ -1798,7 +1798,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 1965,
     car_vin: 'WBAFU9C50CC964401',
-    price: '$2009.53',
+    price: '2009.53',
     availability: true,
   },
   {
@@ -1808,7 +1808,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1994,
     car_vin: 'WP0AA2A92BS573032',
-    price: '$2418.32',
+    price: '2418.32',
     availability: true,
   },
   {
@@ -1818,7 +1818,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 1993,
     car_vin: 'WAUFFAFM2AA675284',
-    price: '$2952.04',
+    price: '2952.04',
     availability: true,
   },
   {
@@ -1828,7 +1828,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 1994,
     car_vin: 'JH4CU25669C310657',
-    price: '$2260.80',
+    price: '2260.80',
     availability: true,
   },
   {
@@ -1838,7 +1838,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2005,
     car_vin: 'KNALN4D76F5545674',
-    price: '$3970.53',
+    price: '3970.53',
     availability: false,
   },
   {
@@ -1848,7 +1848,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1997,
     car_vin: '2C3CDXEJ8FH073542',
-    price: '$3961.08',
+    price: '3961.08',
     availability: true,
   },
   {
@@ -1858,7 +1858,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2005,
     car_vin: '1C3CDFAA9FD180970',
-    price: '$3420.82',
+    price: '3420.82',
     availability: false,
   },
   {
@@ -1868,7 +1868,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2007,
     car_vin: 'TRUDD38J981818679',
-    price: '$1277.80',
+    price: '1277.80',
     availability: true,
   },
   {
@@ -1878,7 +1878,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2000,
     car_vin: '1N4AA5AP6BC559442',
-    price: '$2623.18',
+    price: '2623.18',
     availability: true,
   },
   {
@@ -1888,7 +1888,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 1975,
     car_vin: '1G6KD57Y29U669420',
-    price: '$2147.60',
+    price: '2147.60',
     availability: false,
   },
   {
@@ -1898,7 +1898,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1995,
     car_vin: '19XFA1E35AE128694',
-    price: '$2966.72',
+    price: '2966.72',
     availability: true,
   },
   {
@@ -1908,7 +1908,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2003,
     car_vin: 'SALVE2BG2FH095130',
-    price: '$1370.71',
+    price: '1370.71',
     availability: false,
   },
   {
@@ -1918,7 +1918,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 1992,
     car_vin: '1C3CDFAA8FD910741',
-    price: '$1284.90',
+    price: '1284.90',
     availability: false,
   },
   {
@@ -1928,7 +1928,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 1993,
     car_vin: '5XYKT3A18BG380453',
-    price: '$1622.24',
+    price: '1622.24',
     availability: false,
   },
   {
@@ -1938,7 +1938,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2012,
     car_vin: 'WBAVA33567F004229',
-    price: '$2278.07',
+    price: '2278.07',
     availability: false,
   },
   {
@@ -1948,7 +1948,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 2005,
     car_vin: '5N1AA0NC5FN957722',
-    price: '$3609.78',
+    price: '3609.78',
     availability: false,
   },
   {
@@ -1958,7 +1958,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1999,
     car_vin: '1GKUCEEFXAR746489',
-    price: '$1557.03',
+    price: '1557.03',
     availability: true,
   },
   {
@@ -1968,7 +1968,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1988,
     car_vin: 'WAUBH74F66N262669',
-    price: '$2185.20',
+    price: '2185.20',
     availability: true,
   },
   {
@@ -1978,7 +1978,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 2005,
     car_vin: 'WUADUAFG6BN965020',
-    price: '$3338.77',
+    price: '3338.77',
     availability: false,
   },
   {
@@ -1988,7 +1988,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2006,
     car_vin: '1FTMF1CWXAK431986',
-    price: '$2319.11',
+    price: '2319.11',
     availability: true,
   },
   {
@@ -1998,7 +1998,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2006,
     car_vin: 'WAUJT58E82A848968',
-    price: '$2047.61',
+    price: '2047.61',
     availability: true,
   },
   {
@@ -2008,7 +2008,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2008,
     car_vin: 'JN1CV6FE2AM723379',
-    price: '$3240.79',
+    price: '3240.79',
     availability: false,
   },
   {
@@ -2018,7 +2018,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2011,
     car_vin: '5UXZW0C53BL599604',
-    price: '$2828.06',
+    price: '2828.06',
     availability: false,
   },
   {
@@ -2028,7 +2028,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 1985,
     car_vin: '1FMJK1G59EE460735',
-    price: '$1663.91',
+    price: '1663.91',
     availability: false,
   },
   {
@@ -2038,7 +2038,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1989,
     car_vin: '1FTWX3B5XAE893148',
-    price: '$2363.28',
+    price: '2363.28',
     availability: true,
   },
   {
@@ -2048,7 +2048,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2012,
     car_vin: 'JH4KB2F60CC390724',
-    price: '$3064.07',
+    price: '3064.07',
     availability: false,
   },
   {
@@ -2058,7 +2058,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1996,
     car_vin: '1N6AA0EC2FN474951',
-    price: '$2107.49',
+    price: '2107.49',
     availability: true,
   },
   {
@@ -2068,7 +2068,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1998,
     car_vin: 'KMHHT6KD4DU969307',
-    price: '$2779.89',
+    price: '2779.89',
     availability: false,
   },
   {
@@ -2078,7 +2078,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2011,
     car_vin: '1GKS1AE08BR497984',
-    price: '$3426.46',
+    price: '3426.46',
     availability: false,
   },
   {
@@ -2088,7 +2088,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2003,
     car_vin: '1FTWX3A52AE970435',
-    price: '$3118.32',
+    price: '3118.32',
     availability: false,
   },
   {
@@ -2098,7 +2098,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1963,
     car_vin: '5FNYF3H20CB161947',
-    price: '$1287.11',
+    price: '1287.11',
     availability: true,
   },
   {
@@ -2108,7 +2108,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 1993,
     car_vin: 'SAJWA0FB9CL940298',
-    price: '$2636.97',
+    price: '2636.97',
     availability: false,
   },
   {
@@ -2118,7 +2118,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1997,
     car_vin: 'WAUEH78E77A849678',
-    price: '$3291.60',
+    price: '3291.60',
     availability: true,
   },
   {
@@ -2128,7 +2128,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2002,
     car_vin: '3D7TP2CT6BG535543',
-    price: '$2460.93',
+    price: '2460.93',
     availability: true,
   },
   {
@@ -2138,7 +2138,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2007,
     car_vin: '2B3CJ5DT3AH337188',
-    price: '$2408.08',
+    price: '2408.08',
     availability: false,
   },
   {
@@ -2148,7 +2148,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1998,
     car_vin: '1YVHZ8BA4A5780323',
-    price: '$1589.09',
+    price: '1589.09',
     availability: false,
   },
   {
@@ -2158,7 +2158,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2012,
     car_vin: '1FADP5AU2EL186843',
-    price: '$1198.69',
+    price: '1198.69',
     availability: true,
   },
   {
@@ -2168,7 +2168,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2004,
     car_vin: '1GYS3GEF5DR689681',
-    price: '$1962.92',
+    price: '1962.92',
     availability: true,
   },
   {
@@ -2178,7 +2178,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1979,
     car_vin: 'SAJWA4FB3CL799817',
-    price: '$3338.05',
+    price: '3338.05',
     availability: true,
   },
   {
@@ -2188,7 +2188,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1997,
     car_vin: '1D7RW2GK0AS160870',
-    price: '$2267.86',
+    price: '2267.86',
     availability: false,
   },
   {
@@ -2198,7 +2198,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2003,
     car_vin: '1GD21ZCG2DZ215766',
-    price: '$1229.39',
+    price: '1229.39',
     availability: false,
   },
   {
@@ -2208,7 +2208,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1959,
     car_vin: 'WA1AV74L37D721381',
-    price: '$3349.67',
+    price: '3349.67',
     availability: true,
   },
   {
@@ -2218,7 +2218,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2003,
     car_vin: 'WBA1F9C58FV598202',
-    price: '$1389.55',
+    price: '1389.55',
     availability: false,
   },
   {
@@ -2228,7 +2228,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1989,
     car_vin: '5NPDH4AE5CH625545',
-    price: '$1850.43',
+    price: '1850.43',
     availability: true,
   },
   {
@@ -2238,7 +2238,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1998,
     car_vin: '19UUA96289A984390',
-    price: '$3823.76',
+    price: '3823.76',
     availability: true,
   },
   {
@@ -2248,7 +2248,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2006,
     car_vin: '2G4WN58CX91225630',
-    price: '$2605.56',
+    price: '2605.56',
     availability: true,
   },
   {
@@ -2258,7 +2258,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2002,
     car_vin: 'WAUAVAFA3AN970938',
-    price: '$3912.39',
+    price: '3912.39',
     availability: false,
   },
   {
@@ -2268,7 +2268,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1992,
     car_vin: '3D73Y3HL5BG550854',
-    price: '$1500.17',
+    price: '1500.17',
     availability: true,
   },
   {
@@ -2278,7 +2278,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 1999,
     car_vin: '5N1AA0NC3CN298762',
-    price: '$3810.69',
+    price: '3810.69',
     availability: false,
   },
   {
@@ -2288,7 +2288,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2001,
     car_vin: '1G6YX36D995723276',
-    price: '$2272.23',
+    price: '2272.23',
     availability: true,
   },
   {
@@ -2298,7 +2298,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2008,
     car_vin: '1GYFC23269R070681',
-    price: '$3476.96',
+    price: '3476.96',
     availability: false,
   },
   {
@@ -2308,7 +2308,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 1994,
     car_vin: '1B3CB9HA3BD491461',
-    price: '$1470.18',
+    price: '1470.18',
     availability: false,
   },
   {
@@ -2318,7 +2318,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1994,
     car_vin: '1D7RB1GP2BS944504',
-    price: '$2531.25',
+    price: '2531.25',
     availability: false,
   },
   {
@@ -2328,7 +2328,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2006,
     car_vin: '1C6RD7LP4CS845737',
-    price: '$1234.29',
+    price: '1234.29',
     availability: false,
   },
   {
@@ -2338,7 +2338,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 2011,
     car_vin: 'SCBBR9ZA3BC185583',
-    price: '$3593.33',
+    price: '3593.33',
     availability: true,
   },
   {
@@ -2348,7 +2348,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 1993,
     car_vin: 'WA1TFAFL2EA099712',
-    price: '$1809.69',
+    price: '1809.69',
     availability: true,
   },
   {
@@ -2358,7 +2358,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1997,
     car_vin: 'WDDGF4HB6CA346682',
-    price: '$1379.21',
+    price: '1379.21',
     availability: true,
   },
   {
@@ -2368,7 +2368,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1999,
     car_vin: 'SCFHDDAT4EG717640',
-    price: '$2821.03',
+    price: '2821.03',
     availability: true,
   },
   {
@@ -2378,7 +2378,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2001,
     car_vin: 'WAUJC68E25A513781',
-    price: '$3508.77',
+    price: '3508.77',
     availability: false,
   },
   {
@@ -2388,7 +2388,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2011,
     car_vin: 'WA1EV74L77D311071',
-    price: '$2412.51',
+    price: '2412.51',
     availability: false,
   },
   {
@@ -2398,7 +2398,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 1996,
     car_vin: 'WAUJT68E73A447354',
-    price: '$3854.08',
+    price: '3854.08',
     availability: false,
   },
   {
@@ -2408,7 +2408,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2008,
     car_vin: '1GD21XEG5FZ705073',
-    price: '$2338.52',
+    price: '2338.52',
     availability: false,
   },
   {
@@ -2418,7 +2418,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2009,
     car_vin: 'WBASN4C54CC827721',
-    price: '$2967.63',
+    price: '2967.63',
     availability: false,
   },
   {
@@ -2428,7 +2428,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 1991,
     car_vin: '1G6DE5EY8B0732820',
-    price: '$1208.13',
+    price: '1208.13',
     availability: false,
   },
   {
@@ -2438,7 +2438,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2001,
     car_vin: 'WUADUAFG8F7528808',
-    price: '$3471.29',
+    price: '3471.29',
     availability: true,
   },
   {
@@ -2448,7 +2448,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2003,
     car_vin: '1G6DA67VX90962230',
-    price: '$2815.94',
+    price: '2815.94',
     availability: false,
   },
   {
@@ -2458,7 +2458,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1992,
     car_vin: '1D7CW3BK3AS456923',
-    price: '$3050.69',
+    price: '3050.69',
     availability: true,
   },
   {
@@ -2468,7 +2468,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 1994,
     car_vin: '1G6AG5RXXE0881037',
-    price: '$2643.03',
+    price: '2643.03',
     availability: true,
   },
   {
@@ -2478,7 +2478,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2010,
     car_vin: '3G5DA03L76S356054',
-    price: '$3677.11',
+    price: '3677.11',
     availability: false,
   },
   {
@@ -2488,7 +2488,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2002,
     car_vin: '1B3CB5HA2AD785473',
-    price: '$1848.09',
+    price: '1848.09',
     availability: false,
   },
   {
@@ -2498,7 +2498,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1962,
     car_vin: '1G6DK5E34C0585605',
-    price: '$3493.26',
+    price: '3493.26',
     availability: false,
   },
   {
@@ -2508,7 +2508,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 1995,
     car_vin: 'JN1CY0AP8AM325946',
-    price: '$1501.95',
+    price: '1501.95',
     availability: true,
   },
   {
@@ -2518,7 +2518,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2008,
     car_vin: '2G61S5S30F9804643',
-    price: '$2115.91',
+    price: '2115.91',
     availability: true,
   },
   {
@@ -2528,7 +2528,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1992,
     car_vin: 'JN8AZ1FY0BW369748',
-    price: '$2372.44',
+    price: '2372.44',
     availability: false,
   },
   {
@@ -2538,7 +2538,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1994,
     car_vin: 'JN1AZ4EH8AM121663',
-    price: '$3485.49',
+    price: '3485.49',
     availability: false,
   },
   {
@@ -2548,7 +2548,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1971,
     car_vin: 'KMHGH4JF2BU053095',
-    price: '$1321.76',
+    price: '1321.76',
     availability: false,
   },
   {
@@ -2558,7 +2558,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2002,
     car_vin: '1N6AA0EK0FN069632',
-    price: '$1532.99',
+    price: '1532.99',
     availability: false,
   },
   {
@@ -2568,7 +2568,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2008,
     car_vin: 'YV1672MS8B2319757',
-    price: '$1142.26',
+    price: '1142.26',
     availability: false,
   },
   {
@@ -2578,7 +2578,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2003,
     car_vin: '1FADP5BU0DL626166',
-    price: '$2059.89',
+    price: '2059.89',
     availability: true,
   },
   {
@@ -2588,7 +2588,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1992,
     car_vin: 'WBAEH73485B148301',
-    price: '$2718.41',
+    price: '2718.41',
     availability: false,
   },
   {
@@ -2598,7 +2598,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2007,
     car_vin: '1GYFK43549R109048',
-    price: '$1090.08',
+    price: '1090.08',
     availability: true,
   },
   {
@@ -2608,7 +2608,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1989,
     car_vin: '1D7RV1CP3BS221306',
-    price: '$2331.35',
+    price: '2331.35',
     availability: true,
   },
   {
@@ -2618,7 +2618,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1988,
     car_vin: 'JH4CU26699C818894',
-    price: '$2765.91',
+    price: '2765.91',
     availability: false,
   },
   {
@@ -2628,7 +2628,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2005,
     car_vin: 'SALSF2D41AA720363',
-    price: '$1618.11',
+    price: '1618.11',
     availability: true,
   },
   {
@@ -2638,7 +2638,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2000,
     car_vin: '1FBNE3BL5AD788043',
-    price: '$1919.09',
+    price: '1919.09',
     availability: false,
   },
   {
@@ -2648,7 +2648,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1993,
     car_vin: 'JTJHY7AX0D4303355',
-    price: '$1675.32',
+    price: '1675.32',
     availability: true,
   },
   {
@@ -2658,7 +2658,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2003,
     car_vin: 'JN1BJ0HR9FM648305',
-    price: '$1506.06',
+    price: '1506.06',
     availability: true,
   },
   {
@@ -2668,7 +2668,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2009,
     car_vin: '1G6DJ577690723608',
-    price: '$3795.04',
+    price: '3795.04',
     availability: true,
   },
   {
@@ -2678,7 +2678,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 1995,
     car_vin: '3D7TT2CTXAG738722',
-    price: '$2974.31',
+    price: '2974.31',
     availability: false,
   },
   {
@@ -2688,7 +2688,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 1996,
     car_vin: 'WAUNF78P76A172704',
-    price: '$3252.47',
+    price: '3252.47',
     availability: false,
   },
   {
@@ -2698,7 +2698,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1926,
     car_vin: 'WUAGL78E16A303356',
-    price: '$2108.16',
+    price: '2108.16',
     availability: false,
   },
   {
@@ -2708,7 +2708,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2006,
     car_vin: '5N1BA0NCXFN462131',
-    price: '$3688.12',
+    price: '3688.12',
     availability: true,
   },
   {
@@ -2718,7 +2718,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2009,
     car_vin: 'WAUHF98P77A762816',
-    price: '$1702.06',
+    price: '1702.06',
     availability: false,
   },
   {
@@ -2728,7 +2728,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2005,
     car_vin: 'WBALL5C55CJ685519',
-    price: '$1721.14',
+    price: '1721.14',
     availability: true,
   },
   {
@@ -2738,7 +2738,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2004,
     car_vin: '1C4AJWAG3FL693573',
-    price: '$1604.08',
+    price: '1604.08',
     availability: false,
   },
   {
@@ -2748,7 +2748,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 1991,
     car_vin: 'WAUKF98E66A806758',
-    price: '$3136.03',
+    price: '3136.03',
     availability: true,
   },
   {
@@ -2758,7 +2758,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1985,
     car_vin: '5N1AR2MM9EC793304',
-    price: '$2190.49',
+    price: '2190.49',
     availability: false,
   },
   {
@@ -2768,7 +2768,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 1997,
     car_vin: 'WBA3C1C59CF781536',
-    price: '$1593.08',
+    price: '1593.08',
     availability: false,
   },
   {
@@ -2778,7 +2778,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2000,
     car_vin: 'SALWR2TF8FA313966',
-    price: '$3341.48',
+    price: '3341.48',
     availability: true,
   },
   {
@@ -2788,7 +2788,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1992,
     car_vin: '1G6D25EDXB0956659',
-    price: '$1255.10',
+    price: '1255.10',
     availability: true,
   },
   {
@@ -2798,7 +2798,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1989,
     car_vin: 'WA1VMAFP1FA611009',
-    price: '$3806.68',
+    price: '3806.68',
     availability: false,
   },
   {
@@ -2808,7 +2808,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1998,
     car_vin: 'WAUEL94F35N542734',
-    price: '$3772.03',
+    price: '3772.03',
     availability: true,
   },
   {
@@ -2818,7 +2818,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2008,
     car_vin: 'JTEBU5JR3F5091926',
-    price: '$3495.75',
+    price: '3495.75',
     availability: false,
   },
   {
@@ -2828,7 +2828,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2011,
     car_vin: 'WBSPM9C54BE453096',
-    price: '$3732.64',
+    price: '3732.64',
     availability: false,
   },
   {
@@ -2838,7 +2838,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2004,
     car_vin: '1GYUKDEF6AR282684',
-    price: '$2622.27',
+    price: '2622.27',
     availability: true,
   },
   {
@@ -2848,7 +2848,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1997,
     car_vin: 'WAUMFAFL1DA130177',
-    price: '$1545.18',
+    price: '1545.18',
     availability: false,
   },
   {
@@ -2858,7 +2858,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1997,
     car_vin: '1YVHZ8BH8A5124042',
-    price: '$1479.82',
+    price: '1479.82',
     availability: true,
   },
   {
@@ -2868,7 +2868,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1992,
     car_vin: 'WP1AA2AP5AL064197',
-    price: '$2776.44',
+    price: '2776.44',
     availability: true,
   },
   {
@@ -2878,7 +2878,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1995,
     car_vin: '3GYFNAE33FS980775',
-    price: '$3937.78',
+    price: '3937.78',
     availability: true,
   },
   {
@@ -2888,7 +2888,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 2006,
     car_vin: 'WAUSH98E67A877955',
-    price: '$2052.40',
+    price: '2052.40',
     availability: true,
   },
   {
@@ -2898,7 +2898,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2005,
     car_vin: '19UYA424X3A241877',
-    price: '$2776.98',
+    price: '2776.98',
     availability: false,
   },
   {
@@ -2908,7 +2908,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1992,
     car_vin: 'WA1DGAFP9FA346343',
-    price: '$3748.04',
+    price: '3748.04',
     availability: false,
   },
   {
@@ -2918,7 +2918,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2009,
     car_vin: 'WAUAF98E86A680799',
-    price: '$2827.48',
+    price: '2827.48',
     availability: false,
   },
   {
@@ -2928,7 +2928,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 1987,
     car_vin: '1B3CB9HAXAD306210',
-    price: '$2691.30',
+    price: '2691.30',
     availability: false,
   },
   {
@@ -2938,7 +2938,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2007,
     car_vin: 'SALFR2BN9BH225387',
-    price: '$3213.47',
+    price: '3213.47',
     availability: true,
   },
   {
@@ -2948,7 +2948,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2007,
     car_vin: '5FRYD3H94GB900566',
-    price: '$1311.67',
+    price: '1311.67',
     availability: true,
   },
   {
@@ -2958,7 +2958,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 2007,
     car_vin: '1N6AA0EC7DN678707',
-    price: '$3080.42',
+    price: '3080.42',
     availability: false,
   },
   {
@@ -2968,7 +2968,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2005,
     car_vin: 'SCBLE47K99C600351',
-    price: '$1085.72',
+    price: '1085.72',
     availability: true,
   },
   {
@@ -2978,7 +2978,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1992,
     car_vin: '1G6DN57S040610089',
-    price: '$3290.13',
+    price: '3290.13',
     availability: false,
   },
   {
@@ -2988,7 +2988,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1994,
     car_vin: '1G6AU5S83E0401707',
-    price: '$1595.18',
+    price: '1595.18',
     availability: true,
   },
   {
@@ -2998,7 +2998,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1999,
     car_vin: '3GYVKNEF0AG024543',
-    price: '$2561.31',
+    price: '2561.31',
     availability: false,
   },
   {
@@ -3008,7 +3008,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1991,
     car_vin: 'KMHEC4A49DA809241',
-    price: '$2322.73',
+    price: '2322.73',
     availability: true,
   },
   {
@@ -3018,7 +3018,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2000,
     car_vin: '1G4GE5G32FF413732',
-    price: '$3779.33',
+    price: '3779.33',
     availability: true,
   },
   {
@@ -3028,7 +3028,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2006,
     car_vin: '1G6DV5EP3B0292531',
-    price: '$1273.96',
+    price: '1273.96',
     availability: false,
   },
   {
@@ -3038,7 +3038,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2003,
     car_vin: 'WUATNAFG1CN657330',
-    price: '$3874.65',
+    price: '3874.65',
     availability: true,
   },
   {
@@ -3048,7 +3048,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2011,
     car_vin: 'WBSCL93411L038854',
-    price: '$1879.59',
+    price: '1879.59',
     availability: true,
   },
   {
@@ -3058,7 +3058,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2012,
     car_vin: '3VW1K7AJ1CM036499',
-    price: '$2132.02',
+    price: '2132.02',
     availability: true,
   },
   {
@@ -3068,7 +3068,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2002,
     car_vin: '5TDBK3EH0CS327762',
-    price: '$3242.07',
+    price: '3242.07',
     availability: false,
   },
   {
@@ -3078,7 +3078,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2006,
     car_vin: '2HNYD18644H824746',
-    price: '$1184.98',
+    price: '1184.98',
     availability: false,
   },
   {
@@ -3088,7 +3088,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2012,
     car_vin: 'KNAFK4A65F5958901',
-    price: '$2224.35',
+    price: '2224.35',
     availability: true,
   },
   {
@@ -3098,7 +3098,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1988,
     car_vin: '1FTMF1CW4AK006702',
-    price: '$2614.80',
+    price: '2614.80',
     availability: false,
   },
   {
@@ -3108,7 +3108,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2007,
     car_vin: '5FPYK1F29BB593560',
-    price: '$2462.10',
+    price: '2462.10',
     availability: true,
   },
   {
@@ -3118,7 +3118,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1995,
     car_vin: '5N1AN0NU1AC278435',
-    price: '$1966.80',
+    price: '1966.80',
     availability: true,
   },
   {
@@ -3128,7 +3128,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 2000,
     car_vin: 'SCBBB7ZH0DC996802',
-    price: '$3187.99',
+    price: '3187.99',
     availability: false,
   },
   {
@@ -3138,7 +3138,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1994,
     car_vin: 'WBA3K5C59EF153019',
-    price: '$1403.23',
+    price: '1403.23',
     availability: false,
   },
   {
@@ -3148,7 +3148,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1992,
     car_vin: '1G6AE1RX1F0176885',
-    price: '$2003.75',
+    price: '2003.75',
     availability: false,
   },
   {
@@ -3158,7 +3158,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 2006,
     car_vin: 'WBSDE93402B888075',
-    price: '$3856.61',
+    price: '3856.61',
     availability: false,
   },
   {
@@ -3168,7 +3168,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2012,
     car_vin: 'JTEBU5JR0B5826887',
-    price: '$3952.84',
+    price: '3952.84',
     availability: false,
   },
   {
@@ -3178,7 +3178,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1987,
     car_vin: 'NM0AE8F74E1592137',
-    price: '$3207.01',
+    price: '3207.01',
     availability: true,
   },
   {
@@ -3188,7 +3188,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2012,
     car_vin: '1N6AA0CC8CN145041',
-    price: '$1013.27',
+    price: '1013.27',
     availability: true,
   },
   {
@@ -3198,7 +3198,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2011,
     car_vin: 'WBAEV53453K254201',
-    price: '$1808.46',
+    price: '1808.46',
     availability: true,
   },
   {
@@ -3208,7 +3208,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1999,
     car_vin: '1N6AD0CU5BC587933',
-    price: '$1033.40',
+    price: '1033.40',
     availability: true,
   },
   {
@@ -3218,7 +3218,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1998,
     car_vin: '1G4HP57M99U675450',
-    price: '$2206.53',
+    price: '2206.53',
     availability: true,
   },
   {
@@ -3228,7 +3228,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2001,
     car_vin: '1GYS4DEF7DR903503',
-    price: '$2104.02',
+    price: '2104.02',
     availability: false,
   },
   {
@@ -3238,7 +3238,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2003,
     car_vin: '3VW517AT5EM111228',
-    price: '$1544.20',
+    price: '1544.20',
     availability: true,
   },
   {
@@ -3248,7 +3248,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1999,
     car_vin: 'WDDHF0EB5FB819553',
-    price: '$2347.95',
+    price: '2347.95',
     availability: false,
   },
   {
@@ -3258,7 +3258,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1995,
     car_vin: 'WAUBVAFAXAN442513',
-    price: '$1564.08',
+    price: '1564.08',
     availability: false,
   },
   {
@@ -3268,7 +3268,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2010,
     car_vin: '1G6DM1E34D0599251',
-    price: '$2000.06',
+    price: '2000.06',
     availability: true,
   },
   {
@@ -3278,7 +3278,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 1996,
     car_vin: 'SCBFR7ZA4CC313448',
-    price: '$1458.05',
+    price: '1458.05',
     availability: true,
   },
   {
@@ -3288,7 +3288,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1987,
     car_vin: '1GYS4RKJ3FR592211',
-    price: '$1448.39',
+    price: '1448.39',
     availability: true,
   },
   {
@@ -3298,7 +3298,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1996,
     car_vin: '2B3CJ7DW1AH195011',
-    price: '$3503.57',
+    price: '3503.57',
     availability: false,
   },
   {
@@ -3308,7 +3308,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2004,
     car_vin: 'WDDPK4HA3DF417621',
-    price: '$1050.51',
+    price: '1050.51',
     availability: true,
   },
   {
@@ -3318,7 +3318,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2000,
     car_vin: 'KMHDB8AE1BU199605',
-    price: '$2867.28',
+    price: '2867.28',
     availability: true,
   },
   {
@@ -3328,7 +3328,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 2010,
     car_vin: 'WBSDX9C51DE172502',
-    price: '$2769.87',
+    price: '2769.87',
     availability: false,
   },
   {
@@ -3338,7 +3338,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1999,
     car_vin: '3D73Y3CLXBG376464',
-    price: '$1559.48',
+    price: '1559.48',
     availability: true,
   },
   {
@@ -3348,7 +3348,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2007,
     car_vin: '1D7RE3BK6AS803920',
-    price: '$3103.26',
+    price: '3103.26',
     availability: false,
   },
   {
@@ -3358,7 +3358,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2006,
     car_vin: 'WAUKH78E77A077282',
-    price: '$2145.87',
+    price: '2145.87',
     availability: true,
   },
   {
@@ -3368,7 +3368,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2008,
     car_vin: 'WAUDV94F37N731117',
-    price: '$1843.50',
+    price: '1843.50',
     availability: true,
   },
   {
@@ -3378,7 +3378,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1993,
     car_vin: 'WAUGL78E26A590085',
-    price: '$1913.97',
+    price: '1913.97',
     availability: true,
   },
   {
@@ -3388,7 +3388,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2004,
     car_vin: 'SCFEBBDL4EG301855',
-    price: '$1682.57',
+    price: '1682.57',
     availability: false,
   },
   {
@@ -3398,7 +3398,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2011,
     car_vin: '4T1BF1FK6FU229821',
-    price: '$3555.75',
+    price: '3555.75',
     availability: false,
   },
   {
@@ -3408,7 +3408,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2007,
     car_vin: '1GYS4TKJ8FR970648',
-    price: '$2209.07',
+    price: '2209.07',
     availability: true,
   },
   {
@@ -3418,7 +3418,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1998,
     car_vin: '1G6AJ5SX1E0392120',
-    price: '$2689.13',
+    price: '2689.13',
     availability: true,
   },
   {
@@ -3428,7 +3428,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1997,
     car_vin: '1GD020CG3DZ560725',
-    price: '$3753.67',
+    price: '3753.67',
     availability: true,
   },
   {
@@ -3438,7 +3438,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1993,
     car_vin: 'JM1GJ1T50F1926989',
-    price: '$2273.23',
+    price: '2273.23',
     availability: false,
   },
   {
@@ -3448,7 +3448,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2008,
     car_vin: '19UUA65504A893200',
-    price: '$1096.53',
+    price: '1096.53',
     availability: false,
   },
   {
@@ -3458,7 +3458,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2008,
     car_vin: 'WAUJT68E82A197363',
-    price: '$3948.23',
+    price: '3948.23',
     availability: false,
   },
   {
@@ -3468,7 +3468,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2010,
     car_vin: 'WAUEKBFBXAN413792',
-    price: '$3726.62',
+    price: '3726.62',
     availability: false,
   },
   {
@@ -3478,7 +3478,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1993,
     car_vin: 'KNAFX6A82F5618006',
-    price: '$1742.24',
+    price: '1742.24',
     availability: true,
   },
   {
@@ -3488,7 +3488,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2013,
     car_vin: 'SCFAD02A86G559263',
-    price: '$1171.66',
+    price: '1171.66',
     availability: false,
   },
   {
@@ -3498,7 +3498,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2006,
     car_vin: '1FMJK1H52EE380143',
-    price: '$3051.61',
+    price: '3051.61',
     availability: false,
   },
   {
@@ -3508,7 +3508,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1994,
     car_vin: '1G4HH5E9XAU064133',
-    price: '$2458.88',
+    price: '2458.88',
     availability: false,
   },
   {
@@ -3518,7 +3518,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 2001,
     car_vin: 'JN8AS5MTXBW891886',
-    price: '$3388.18',
+    price: '3388.18',
     availability: true,
   },
   {
@@ -3528,7 +3528,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2010,
     car_vin: '1GYS3KEF3BR721723',
-    price: '$3360.96',
+    price: '3360.96',
     availability: true,
   },
   {
@@ -3538,7 +3538,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 2012,
     car_vin: '5TDBW5G18BS498614',
-    price: '$1963.54',
+    price: '1963.54',
     availability: false,
   },
   {
@@ -3548,7 +3548,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2006,
     car_vin: '2T1BURHE8FC155573',
-    price: '$3438.00',
+    price: '3438.00',
     availability: true,
   },
   {
@@ -3558,7 +3558,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2013,
     car_vin: 'ML32A3HJ3EH199108',
-    price: '$2120.23',
+    price: '2120.23',
     availability: true,
   },
   {
@@ -3568,7 +3568,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1998,
     car_vin: '19UUA9F20CA555445',
-    price: '$3575.78',
+    price: '3575.78',
     availability: false,
   },
   {
@@ -3578,7 +3578,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2005,
     car_vin: '1C3CDFAA8DD239164',
-    price: '$2047.56',
+    price: '2047.56',
     availability: true,
   },
   {
@@ -3588,7 +3588,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1987,
     car_vin: '1G4CW54KX44443643',
-    price: '$3403.88',
+    price: '3403.88',
     availability: true,
   },
   {
@@ -3598,7 +3598,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2011,
     car_vin: 'WBANU535X8C362519',
-    price: '$1170.32',
+    price: '1170.32',
     availability: true,
   },
   {
@@ -3608,7 +3608,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2001,
     car_vin: '3C3CFFFH4ET646572',
-    price: '$1279.96',
+    price: '1279.96',
     availability: false,
   },
   {
@@ -3618,7 +3618,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2001,
     car_vin: '1D7RW3BK5AS739902',
-    price: '$3640.32',
+    price: '3640.32',
     availability: false,
   },
   {
@@ -3628,7 +3628,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2006,
     car_vin: '1G6DM8E33D0158719',
-    price: '$3473.31',
+    price: '3473.31',
     availability: true,
   },
   {
@@ -3638,7 +3638,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2013,
     car_vin: '2C3CDXCT4FH891256',
-    price: '$3403.62',
+    price: '3403.62',
     availability: true,
   },
   {
@@ -3648,7 +3648,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2012,
     car_vin: 'WAUVC68E43A854520',
-    price: '$3542.16',
+    price: '3542.16',
     availability: false,
   },
   {
@@ -3658,7 +3658,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2005,
     car_vin: 'JH4KC1F71EC498918',
-    price: '$2277.69',
+    price: '2277.69',
     availability: false,
   },
   {
@@ -3668,7 +3668,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2012,
     car_vin: '1FTWW3DYXAE590784',
-    price: '$3298.59',
+    price: '3298.59',
     availability: false,
   },
   {
@@ -3678,7 +3678,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2002,
     car_vin: '2G4GT5GXXE9598662',
-    price: '$1774.54',
+    price: '1774.54',
     availability: false,
   },
   {
@@ -3688,7 +3688,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2003,
     car_vin: 'WAUCFAFH2FN157357',
-    price: '$3731.56',
+    price: '3731.56',
     availability: true,
   },
   {
@@ -3698,7 +3698,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1957,
     car_vin: '5YMGZ0C50CL331358',
-    price: '$2098.97',
+    price: '2098.97',
     availability: true,
   },
   {
@@ -3708,7 +3708,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 1998,
     car_vin: 'WDDHF8JB3DA910263',
-    price: '$1685.25',
+    price: '1685.25',
     availability: true,
   },
   {
@@ -3718,7 +3718,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1994,
     car_vin: '3VW217AU6FM383333',
-    price: '$2123.27',
+    price: '2123.27',
     availability: false,
   },
   {
@@ -3728,7 +3728,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2008,
     car_vin: '137ZA83311E050406',
-    price: '$1181.68',
+    price: '1181.68',
     availability: false,
   },
   {
@@ -3738,7 +3738,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2005,
     car_vin: '5TFCW5F10CX473207',
-    price: '$2517.76',
+    price: '2517.76',
     availability: false,
   },
   {
@@ -3748,7 +3748,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2012,
     car_vin: 'WAUDH98E86A356033',
-    price: '$2166.95',
+    price: '2166.95',
     availability: false,
   },
   {
@@ -3758,7 +3758,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 1996,
     car_vin: '1J4AA2D19AL443516',
-    price: '$2485.13',
+    price: '2485.13',
     availability: false,
   },
   {
@@ -3768,7 +3768,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2004,
     car_vin: '5N1AN0NU3FN032109',
-    price: '$2449.81',
+    price: '2449.81',
     availability: true,
   },
   {
@@ -3778,7 +3778,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2011,
     car_vin: 'WAUDK78T19A246188',
-    price: '$2787.04',
+    price: '2787.04',
     availability: true,
   },
   {
@@ -3788,7 +3788,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2011,
     car_vin: 'JM1NC2MFXE0309098',
-    price: '$1928.74',
+    price: '1928.74',
     availability: false,
   },
   {
@@ -3798,7 +3798,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1995,
     car_vin: '1G4HF57929U186709',
-    price: '$3821.62',
+    price: '3821.62',
     availability: false,
   },
   {
@@ -3808,7 +3808,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 2011,
     car_vin: '1G4HP54K83U648699',
-    price: '$3271.64',
+    price: '3271.64',
     availability: false,
   },
   {
@@ -3818,7 +3818,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2001,
     car_vin: '1FTEX1EW8AK449868',
-    price: '$2677.37',
+    price: '2677.37',
     availability: true,
   },
   {
@@ -3828,7 +3828,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 1984,
     car_vin: 'WAUUL68E65A187710',
-    price: '$3489.41',
+    price: '3489.41',
     availability: true,
   },
   {
@@ -3838,7 +3838,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2000,
     car_vin: '1HGCP2E35AA374754',
-    price: '$1555.96',
+    price: '1555.96',
     availability: true,
   },
   {
@@ -3848,7 +3848,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1986,
     car_vin: '4T1BF1FK9EU041146',
-    price: '$2838.09',
+    price: '2838.09',
     availability: false,
   },
   {
@@ -3858,7 +3858,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1993,
     car_vin: '3D73Y4CL5AG521656',
-    price: '$3410.04',
+    price: '3410.04',
     availability: false,
   },
   {
@@ -3868,7 +3868,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2004,
     car_vin: '3D73M3HL8BG003847',
-    price: '$1701.57',
+    price: '1701.57',
     availability: true,
   },
   {
@@ -3878,7 +3878,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1990,
     car_vin: '1G6DS5E33D0457230',
-    price: '$1921.94',
+    price: '1921.94',
     availability: true,
   },
   {
@@ -3888,7 +3888,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2012,
     car_vin: '3D73Y4ELXAG586340',
-    price: '$3982.24',
+    price: '3982.24',
     availability: false,
   },
   {
@@ -3898,7 +3898,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1993,
     car_vin: '5GADT13S842981914',
-    price: '$2436.68',
+    price: '2436.68',
     availability: true,
   },
   {
@@ -3908,7 +3908,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2011,
     car_vin: '3VW517AT4FM487615',
-    price: '$2496.90',
+    price: '2496.90',
     availability: true,
   },
   {
@@ -3918,7 +3918,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2006,
     car_vin: '5FRYD4H40GB879094',
-    price: '$3205.89',
+    price: '3205.89',
     availability: false,
   },
   {
@@ -3928,7 +3928,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1993,
     car_vin: 'WBA6B2C53ED552046',
-    price: '$1246.99',
+    price: '1246.99',
     availability: false,
   },
   {
@@ -3938,7 +3938,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1999,
     car_vin: 'JN8AS1MU7CM080738',
-    price: '$1243.46',
+    price: '1243.46',
     availability: false,
   },
   {
@@ -3948,7 +3948,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2005,
     car_vin: 'WBASN4C54CC609116',
-    price: '$3645.86',
+    price: '3645.86',
     availability: true,
   },
   {
@@ -3958,7 +3958,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2009,
     car_vin: 'WAUKF98E18A221895',
-    price: '$3159.62',
+    price: '3159.62',
     availability: true,
   },
   {
@@ -3968,7 +3968,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2008,
     car_vin: '2B3CJ7DJ6BH863391',
-    price: '$1321.25',
+    price: '1321.25',
     availability: true,
   },
   {
@@ -3978,7 +3978,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1997,
     car_vin: 'WBSBL93464J940637',
-    price: '$2536.84',
+    price: '2536.84',
     availability: false,
   },
   {
@@ -3988,7 +3988,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2012,
     car_vin: 'YV440MBK3F1504128',
-    price: '$1155.33',
+    price: '1155.33',
     availability: false,
   },
   {
@@ -3998,7 +3998,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1993,
     car_vin: 'WBAUP93529V074347',
-    price: '$1610.94',
+    price: '1610.94',
     availability: false,
   },
   {
@@ -4008,7 +4008,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2001,
     car_vin: 'WBAET374X5N447563',
-    price: '$1910.64',
+    price: '1910.64',
     availability: false,
   },
   {
@@ -4018,7 +4018,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2011,
     car_vin: '1FTEW1E86AF358689',
-    price: '$2126.13',
+    price: '2126.13',
     availability: true,
   },
   {
@@ -4028,7 +4028,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2002,
     car_vin: 'SCFAD01A67G843042',
-    price: '$2990.73',
+    price: '2990.73',
     availability: true,
   },
   {
@@ -4038,7 +4038,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2006,
     car_vin: 'WBAYF8C53DD331268',
-    price: '$2991.56',
+    price: '2991.56',
     availability: false,
   },
   {
@@ -4048,7 +4048,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2011,
     car_vin: '2C3CA4CD6AH892191',
-    price: '$2519.25',
+    price: '2519.25',
     availability: true,
   },
   {
@@ -4058,7 +4058,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2008,
     car_vin: '1FTWW3A52AE915390',
-    price: '$2823.98',
+    price: '2823.98',
     availability: true,
   },
   {
@@ -4068,7 +4068,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2003,
     car_vin: 'KL4CJFSB8FB230341',
-    price: '$3616.18',
+    price: '3616.18',
     availability: false,
   },
   {
@@ -4078,7 +4078,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1998,
     car_vin: 'WAUBVAFB2AN293927',
-    price: '$3265.10',
+    price: '3265.10',
     availability: false,
   },
   {
@@ -4088,7 +4088,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2004,
     car_vin: 'WBABN33451J724723',
-    price: '$1012.63',
+    price: '1012.63',
     availability: true,
   },
   {
@@ -4098,7 +4098,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2008,
     car_vin: '1G4CW54K554452929',
-    price: '$1283.24',
+    price: '1283.24',
     availability: true,
   },
   {
@@ -4108,7 +4108,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1995,
     car_vin: 'SCFEBBAK7EG709794',
-    price: '$3203.72',
+    price: '3203.72',
     availability: true,
   },
   {
@@ -4118,7 +4118,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2011,
     car_vin: 'TRUUT28N711138673',
-    price: '$1379.56',
+    price: '1379.56',
     availability: false,
   },
   {
@@ -4128,7 +4128,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2009,
     car_vin: '1GKLRKED8AJ561265',
-    price: '$3110.87',
+    price: '3110.87',
     availability: false,
   },
   {
@@ -4138,7 +4138,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1996,
     car_vin: '3N1CE2CP0EL446441',
-    price: '$3635.62',
+    price: '3635.62',
     availability: true,
   },
   {
@@ -4148,7 +4148,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2005,
     car_vin: 'WAUDF98E68A996749',
-    price: '$1225.62',
+    price: '1225.62',
     availability: true,
   },
   {
@@ -4158,7 +4158,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2005,
     car_vin: '5UMBT93598L910540',
-    price: '$2314.61',
+    price: '2314.61',
     availability: false,
   },
   {
@@ -4168,7 +4168,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2004,
     car_vin: 'JM3TB2BA8E0944295',
-    price: '$2551.39',
+    price: '2551.39',
     availability: true,
   },
   {
@@ -4178,7 +4178,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 1989,
     car_vin: 'WAUBNBFB6AN648409',
-    price: '$1780.31',
+    price: '1780.31',
     availability: true,
   },
   {
@@ -4188,7 +4188,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1999,
     car_vin: '3FADP4AJ6CM498854',
-    price: '$3118.86',
+    price: '3118.86',
     availability: true,
   },
   {
@@ -4198,7 +4198,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2005,
     car_vin: 'WBAUC73508V325591',
-    price: '$3275.11',
+    price: '3275.11',
     availability: false,
   },
   {
@@ -4208,7 +4208,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 2000,
     car_vin: '1G6DL8EY4B0576914',
-    price: '$1289.59',
+    price: '1289.59',
     availability: true,
   },
   {
@@ -4218,7 +4218,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 2003,
     car_vin: '1GYS4KEF7BR042650',
-    price: '$3140.94',
+    price: '3140.94',
     availability: false,
   },
   {
@@ -4228,7 +4228,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1984,
     car_vin: 'WAUVC58E93A323498',
-    price: '$1616.75',
+    price: '1616.75',
     availability: true,
   },
   {
@@ -4238,7 +4238,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1994,
     car_vin: '1G6DC1E32E0325647',
-    price: '$1212.10',
+    price: '1212.10',
     availability: false,
   },
   {
@@ -4248,7 +4248,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2008,
     car_vin: '3VWJX7AJ1AM437971',
-    price: '$3786.39',
+    price: '3786.39',
     availability: false,
   },
   {
@@ -4258,7 +4258,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1998,
     car_vin: 'WBAFR9C52CD258557',
-    price: '$3927.95',
+    price: '3927.95',
     availability: true,
   },
   {
@@ -4268,7 +4268,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2007,
     car_vin: 'WAUAFAFL3DA392026',
-    price: '$3451.01',
+    price: '3451.01',
     availability: false,
   },
   {
@@ -4278,7 +4278,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1996,
     car_vin: 'WAU4GAFBXBN052525',
-    price: '$1798.53',
+    price: '1798.53',
     availability: true,
   },
   {
@@ -4288,7 +4288,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2012,
     car_vin: '1GYS3EEJ3BR438714',
-    price: '$1120.89',
+    price: '1120.89',
     availability: true,
   },
   {
@@ -4298,7 +4298,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2002,
     car_vin: '3GYFNCE33ES365508',
-    price: '$1747.23',
+    price: '1747.23',
     availability: false,
   },
   {
@@ -4308,7 +4308,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 2004,
     car_vin: '3GTU1YEJ3BG139732',
-    price: '$3044.97',
+    price: '3044.97',
     availability: false,
   },
   {
@@ -4318,7 +4318,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1995,
     car_vin: 'JH4DC54886S385292',
-    price: '$2557.27',
+    price: '2557.27',
     availability: false,
   },
   {
@@ -4328,7 +4328,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2009,
     car_vin: '1G6DC8E53C0663629',
-    price: '$2196.49',
+    price: '2196.49',
     availability: false,
   },
   {
@@ -4338,7 +4338,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2011,
     car_vin: 'SAJWA4GC5EM586260',
-    price: '$1993.09',
+    price: '1993.09',
     availability: false,
   },
   {
@@ -4348,7 +4348,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2011,
     car_vin: 'WBAGN83493D325706',
-    price: '$3883.00',
+    price: '3883.00',
     availability: false,
   },
   {
@@ -4358,7 +4358,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2003,
     car_vin: 'JTDZN3EU5FJ775564',
-    price: '$2288.49',
+    price: '2288.49',
     availability: true,
   },
   {
@@ -4368,7 +4368,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2002,
     car_vin: 'WAUEH78E96A751492',
-    price: '$1917.02',
+    price: '1917.02',
     availability: true,
   },
   {
@@ -4378,7 +4378,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2006,
     car_vin: '1ZVBP8JZ3D5853577',
-    price: '$2819.81',
+    price: '2819.81',
     availability: false,
   },
   {
@@ -4388,7 +4388,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1994,
     car_vin: 'KNAGM4AD5D5906288',
-    price: '$2949.99',
+    price: '2949.99',
     availability: false,
   },
   {
@@ -4398,7 +4398,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 1993,
     car_vin: '1FMEU5DE5AU855311',
-    price: '$3582.22',
+    price: '3582.22',
     availability: false,
   },
   {
@@ -4408,7 +4408,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1989,
     car_vin: 'JA32U2FU5EU374962',
-    price: '$1580.43',
+    price: '1580.43',
     availability: true,
   },
   {
@@ -4418,7 +4418,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2005,
     car_vin: 'WAUVT58E95A520724',
-    price: '$2829.61',
+    price: '2829.61',
     availability: false,
   },
   {
@@ -4428,7 +4428,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 2010,
     car_vin: 'WAU3GAFR1DA347404',
-    price: '$1392.36',
+    price: '1392.36',
     availability: false,
   },
   {
@@ -4438,7 +4438,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2006,
     car_vin: '3N1CN7AP7FL063033',
-    price: '$3488.86',
+    price: '3488.86',
     availability: false,
   },
   {
@@ -4448,7 +4448,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1992,
     car_vin: 'KMHTC6AD3CU473506',
-    price: '$2542.41',
+    price: '2542.41',
     availability: true,
   },
   {
@@ -4458,7 +4458,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1992,
     car_vin: '1FAHP2DW7CG187702',
-    price: '$1947.99',
+    price: '1947.99',
     availability: false,
   },
   {
@@ -4468,7 +4468,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1999,
     car_vin: '4T1BF1FK5EU927545',
-    price: '$3923.75',
+    price: '3923.75',
     availability: true,
   },
   {
@@ -4478,7 +4478,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 1995,
     car_vin: '3D7TT2CT8BG701640',
-    price: '$2875.88',
+    price: '2875.88',
     availability: true,
   },
   {
@@ -4488,7 +4488,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2003,
     car_vin: 'WAUAF68E65A963974',
-    price: '$1440.42',
+    price: '1440.42',
     availability: true,
   },
   {
@@ -4498,7 +4498,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2001,
     car_vin: '1G6ET129X2B430692',
-    price: '$1667.66',
+    price: '1667.66',
     availability: true,
   },
   {
@@ -4508,7 +4508,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2000,
     car_vin: 'JM1NC2PF4E0828885',
-    price: '$2678.60',
+    price: '2678.60',
     availability: true,
   },
   {
@@ -4518,7 +4518,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1997,
     car_vin: '1D7RE3GK5AS054553',
-    price: '$2710.41',
+    price: '2710.41',
     availability: true,
   },
   {
@@ -4528,7 +4528,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2004,
     car_vin: '1G6DJ8E33C0714874',
-    price: '$1305.30',
+    price: '1305.30',
     availability: false,
   },
   {
@@ -4538,7 +4538,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2007,
     car_vin: '1G6DM57N630230976',
-    price: '$1382.45',
+    price: '1382.45',
     availability: false,
   },
   {
@@ -4548,7 +4548,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2006,
     car_vin: '1N6AD0CUXCN533775',
-    price: '$1720.71',
+    price: '1720.71',
     availability: false,
   },
   {
@@ -4558,7 +4558,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1999,
     car_vin: '1NXBU4EE8AZ139596',
-    price: '$1395.33',
+    price: '1395.33',
     availability: false,
   },
   {
@@ -4568,7 +4568,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 2002,
     car_vin: '1GD120EG3BF400621',
-    price: '$2536.10',
+    price: '2536.10',
     availability: false,
   },
   {
@@ -4578,7 +4578,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 1996,
     car_vin: '5FNYF3H22DB686476',
-    price: '$2808.18',
+    price: '2808.18',
     availability: false,
   },
   {
@@ -4588,7 +4588,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1987,
     car_vin: 'WBAPK7C52BF729803',
-    price: '$1361.21',
+    price: '1361.21',
     availability: false,
   },
   {
@@ -4598,7 +4598,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1999,
     car_vin: 'WAUNF78P46A687322',
-    price: '$1997.38',
+    price: '1997.38',
     availability: true,
   },
   {
@@ -4608,7 +4608,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1998,
     car_vin: '1C3CDFDH9FD471302',
-    price: '$3915.13',
+    price: '3915.13',
     availability: false,
   },
   {
@@ -4618,7 +4618,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2009,
     car_vin: '1N6AA0CC8FN438720',
-    price: '$2157.75',
+    price: '2157.75',
     availability: false,
   },
   {
@@ -4628,7 +4628,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 2001,
     car_vin: 'JTHFE2C20B2203688',
-    price: '$3814.24',
+    price: '3814.24',
     availability: true,
   },
   {
@@ -4638,7 +4638,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2012,
     car_vin: '5N1AN0NW4EN642553',
-    price: '$1477.45',
+    price: '1477.45',
     availability: false,
   },
   {
@@ -4648,7 +4648,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1995,
     car_vin: 'WBAKE5C57BE429704',
-    price: '$3178.69',
+    price: '3178.69',
     availability: true,
   },
   {
@@ -4658,7 +4658,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1994,
     car_vin: '3C63DPKL9CG708207',
-    price: '$3252.16',
+    price: '3252.16',
     availability: false,
   },
   {
@@ -4668,7 +4668,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2011,
     car_vin: 'JN1AZ4EH7FM973980',
-    price: '$1384.93',
+    price: '1384.93',
     availability: true,
   },
   {
@@ -4678,7 +4678,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1995,
     car_vin: 'JN1AZ4EH6FM822631',
-    price: '$3029.97',
+    price: '3029.97',
     availability: false,
   },
   {
@@ -4688,7 +4688,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2005,
     car_vin: 'WAUKH94F58N377763',
-    price: '$1237.30',
+    price: '1237.30',
     availability: false,
   },
   {
@@ -4698,7 +4698,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2009,
     car_vin: '5FRYD3H89EB520515',
-    price: '$2040.62',
+    price: '2040.62',
     availability: true,
   },
   {
@@ -4708,7 +4708,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2009,
     car_vin: 'WAUDF98E08A450688',
-    price: '$2836.72',
+    price: '2836.72',
     availability: true,
   },
   {
@@ -4718,7 +4718,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2002,
     car_vin: 'SCBLC43F06C095438',
-    price: '$3180.46',
+    price: '3180.46',
     availability: true,
   },
   {
@@ -4728,7 +4728,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1994,
     car_vin: 'JN8AF5MV9FT956935',
-    price: '$1222.24',
+    price: '1222.24',
     availability: false,
   },
   {
@@ -4738,7 +4738,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1996,
     car_vin: '2T1BPRHE4EC652917',
-    price: '$3379.53',
+    price: '3379.53',
     availability: false,
   },
   {
@@ -4748,7 +4748,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2012,
     car_vin: 'WUADU78E28N995686',
-    price: '$1880.08',
+    price: '1880.08',
     availability: false,
   },
   {
@@ -4758,7 +4758,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2008,
     car_vin: 'KNDKG3A26A7648330',
-    price: '$1354.60',
+    price: '1354.60',
     availability: false,
   },
   {
@@ -4768,7 +4768,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 1999,
     car_vin: '2T1BU4EEXCC734227',
-    price: '$3997.37',
+    price: '3997.37',
     availability: false,
   },
   {
@@ -4778,7 +4778,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1992,
     car_vin: 'WAULC58E13A223550',
-    price: '$1929.78',
+    price: '1929.78',
     availability: false,
   },
   {
@@ -4788,7 +4788,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2011,
     car_vin: '3C63DPJL2CG160908',
-    price: '$1638.69',
+    price: '1638.69',
     availability: false,
   },
   {
@@ -4798,7 +4798,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2008,
     car_vin: 'JTEBU5JR6E5107583',
-    price: '$3281.70',
+    price: '3281.70',
     availability: false,
   },
   {
@@ -4808,7 +4808,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1990,
     car_vin: '4T1BF1FK0EU218926',
-    price: '$3052.89',
+    price: '3052.89',
     availability: false,
   },
   {
@@ -4818,7 +4818,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1994,
     car_vin: '2HNYD18441H570918',
-    price: '$1358.35',
+    price: '1358.35',
     availability: true,
   },
   {
@@ -4828,7 +4828,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1990,
     car_vin: '1FTEX1CV5AF038818',
-    price: '$3317.68',
+    price: '3317.68',
     availability: false,
   },
   {
@@ -4838,7 +4838,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1994,
     car_vin: '3D7JB1EK4BG091759',
-    price: '$2281.60',
+    price: '2281.60',
     availability: false,
   },
   {
@@ -4848,7 +4848,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1995,
     car_vin: 'WBALX3C53CD537862',
-    price: '$2406.91',
+    price: '2406.91',
     availability: false,
   },
   {
@@ -4858,7 +4858,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2012,
     car_vin: 'WAUUFAFH4AN631595',
-    price: '$3466.76',
+    price: '3466.76',
     availability: true,
   },
   {
@@ -4868,7 +4868,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1990,
     car_vin: 'WAUFFAFL5DN857274',
-    price: '$3959.64',
+    price: '3959.64',
     availability: false,
   },
   {
@@ -4878,7 +4878,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2011,
     car_vin: 'WAUGU44D03N723505',
-    price: '$1814.49',
+    price: '1814.49',
     availability: true,
   },
   {
@@ -4888,7 +4888,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2010,
     car_vin: 'TRUTC28N231759642',
-    price: '$3401.25',
+    price: '3401.25',
     availability: false,
   },
   {
@@ -4898,7 +4898,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2009,
     car_vin: '3C4PDCDGXDT557888',
-    price: '$1843.18',
+    price: '1843.18',
     availability: false,
   },
   {
@@ -4908,7 +4908,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2005,
     car_vin: 'WA1LFAFP4CA669077',
-    price: '$1330.70',
+    price: '1330.70',
     availability: true,
   },
   {
@@ -4918,7 +4918,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2007,
     car_vin: '5LMJJ2H58EE474360',
-    price: '$1195.33',
+    price: '1195.33',
     availability: false,
   },
   {
@@ -4928,7 +4928,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1980,
     car_vin: 'JA4AS2AW1DU180773',
-    price: '$1422.88',
+    price: '1422.88',
     availability: false,
   },
   {
@@ -4938,7 +4938,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2001,
     car_vin: 'WBANB53586C167179',
-    price: '$2287.88',
+    price: '2287.88',
     availability: true,
   },
   {
@@ -4948,7 +4948,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 1996,
     car_vin: '1G6AD5S33E0467470',
-    price: '$3585.15',
+    price: '3585.15',
     availability: false,
   },
   {
@@ -4958,7 +4958,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1996,
     car_vin: 'JTHBP5C22D5333936',
-    price: '$1919.95',
+    price: '1919.95',
     availability: false,
   },
   {
@@ -4968,7 +4968,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 1999,
     car_vin: 'WBAUP93518V760698',
-    price: '$3977.53',
+    price: '3977.53',
     availability: true,
   },
   {
@@ -4978,7 +4978,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2006,
     car_vin: 'WAUHGBFC9EN366607',
-    price: '$3828.27',
+    price: '3828.27',
     availability: false,
   },
   {
@@ -4988,7 +4988,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2002,
     car_vin: '1G6AH5R38E0310544',
-    price: '$1053.08',
+    price: '1053.08',
     availability: true,
   },
   {
@@ -4998,7 +4998,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2006,
     car_vin: 'WAUHGBFC1CN979303',
-    price: '$3600.41',
+    price: '3600.41',
     availability: false,
   },
   {
@@ -5008,7 +5008,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2009,
     car_vin: 'WBAPH735X9E642388',
-    price: '$3532.87',
+    price: '3532.87',
     availability: false,
   },
   {
@@ -5018,7 +5018,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1969,
     car_vin: 'SCBFU7ZA4DC423805',
-    price: '$1690.94',
+    price: '1690.94',
     availability: true,
   },
   {
@@ -5028,7 +5028,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1988,
     car_vin: 'JH4KC1F99EC173080',
-    price: '$1942.92',
+    price: '1942.92',
     availability: true,
   },
   {
@@ -5038,7 +5038,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1993,
     car_vin: 'WAUAH98EX8A402788',
-    price: '$1607.15',
+    price: '1607.15',
     availability: false,
   },
   {
@@ -5048,7 +5048,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1999,
     car_vin: 'WAUVC58E83A464367',
-    price: '$3165.10',
+    price: '3165.10',
     availability: false,
   },
   {
@@ -5058,7 +5058,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 1995,
     car_vin: 'WAUJF98K59N607487',
-    price: '$1271.12',
+    price: '1271.12',
     availability: true,
   },
   {
@@ -5068,7 +5068,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 1992,
     car_vin: '3VW1K7AJ8DM497328',
-    price: '$3372.91',
+    price: '3372.91',
     availability: false,
   },
   {
@@ -5078,7 +5078,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1995,
     car_vin: 'WAUKH98EX7A767118',
-    price: '$3501.55',
+    price: '3501.55',
     availability: false,
   },
   {
@@ -5088,7 +5088,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 1997,
     car_vin: '1G6AJ1R37F0005888',
-    price: '$3397.32',
+    price: '3397.32',
     availability: false,
   },
   {
@@ -5098,7 +5098,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2003,
     car_vin: 'WBA3B5C50DF649843',
-    price: '$1299.09',
+    price: '1299.09',
     availability: false,
   },
   {
@@ -5108,7 +5108,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 1993,
     car_vin: 'WBA3V7C54F5558361',
-    price: '$1834.33',
+    price: '1834.33',
     availability: true,
   },
   {
@@ -5118,7 +5118,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1999,
     car_vin: 'JH4DC53854S175862',
-    price: '$2004.66',
+    price: '2004.66',
     availability: true,
   },
   {
@@ -5128,7 +5128,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2011,
     car_vin: '4JGDF2EEXFA269153',
-    price: '$2636.44',
+    price: '2636.44',
     availability: false,
   },
   {
@@ -5138,7 +5138,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1996,
     car_vin: '1FTEW1CM1EK357785',
-    price: '$1907.80',
+    price: '1907.80',
     availability: true,
   },
   {
@@ -5148,7 +5148,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2002,
     car_vin: '3C4PDCDG4CT152561',
-    price: '$3451.26',
+    price: '3451.26',
     availability: false,
   },
   {
@@ -5158,7 +5158,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2002,
     car_vin: 'YV1902AH3D1635439',
-    price: '$1037.46',
+    price: '1037.46',
     availability: true,
   },
   {
@@ -5168,7 +5168,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2012,
     car_vin: 'SAJWJ1CD6F8215356',
-    price: '$2142.52',
+    price: '2142.52',
     availability: false,
   },
   {
@@ -5178,7 +5178,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2010,
     car_vin: 'WAUEF98EX7A082782',
-    price: '$1562.47',
+    price: '1562.47',
     availability: false,
   },
   {
@@ -5188,7 +5188,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2012,
     car_vin: 'SCFEBBAKXCG376701',
-    price: '$3620.28',
+    price: '3620.28',
     availability: false,
   },
   {
@@ -5198,7 +5198,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2007,
     car_vin: '1HGCR6F38EA896932',
-    price: '$3591.29',
+    price: '3591.29',
     availability: false,
   },
   {
@@ -5208,7 +5208,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1999,
     car_vin: '1YVHZ8BH2C5598653',
-    price: '$1968.59',
+    price: '1968.59',
     availability: false,
   },
   {
@@ -5218,7 +5218,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1996,
     car_vin: 'WAUFL44D23N385619',
-    price: '$2568.86',
+    price: '2568.86',
     availability: true,
   },
   {
@@ -5228,7 +5228,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2003,
     car_vin: 'WBAVC93568K154881',
-    price: '$3424.37',
+    price: '3424.37',
     availability: true,
   },
   {
@@ -5238,7 +5238,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2010,
     car_vin: 'JH4CL95888C339153',
-    price: '$2677.07',
+    price: '2677.07',
     availability: true,
   },
   {
@@ -5248,7 +5248,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2007,
     car_vin: '5N1AN0NU0CN637362',
-    price: '$2606.57',
+    price: '2606.57',
     availability: true,
   },
   {
@@ -5258,7 +5258,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1986,
     car_vin: '5TDBW5G11ES138475',
-    price: '$2309.19',
+    price: '2309.19',
     availability: false,
   },
   {
@@ -5268,7 +5268,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2002,
     car_vin: 'JN1BY1AP5DM786107',
-    price: '$1409.23',
+    price: '1409.23',
     availability: true,
   },
   {
@@ -5278,7 +5278,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2008,
     car_vin: '1G4HR54K24U226388',
-    price: '$1625.67',
+    price: '1625.67',
     availability: false,
   },
   {
@@ -5288,7 +5288,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1995,
     car_vin: 'YV4902DZ9E2255685',
-    price: '$1816.00',
+    price: '1816.00',
     availability: true,
   },
   {
@@ -5298,7 +5298,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2006,
     car_vin: 'KMHCT4AE3FU549274',
-    price: '$3012.06',
+    price: '3012.06',
     availability: false,
   },
   {
@@ -5308,7 +5308,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1993,
     car_vin: '1FTFW1E88AK462631',
-    price: '$1039.01',
+    price: '1039.01',
     availability: true,
   },
   {
@@ -5318,7 +5318,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1999,
     car_vin: 'JN1AZ4EH6CM159489',
-    price: '$2431.70',
+    price: '2431.70',
     availability: true,
   },
   {
@@ -5328,7 +5328,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2012,
     car_vin: 'JTHBE1D23F5557751',
-    price: '$2221.31',
+    price: '2221.31',
     availability: true,
   },
   {
@@ -5338,7 +5338,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2013,
     car_vin: '3GTU1YEJ8DG429824',
-    price: '$2752.43',
+    price: '2752.43',
     availability: false,
   },
   {
@@ -5348,7 +5348,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2009,
     car_vin: '2T1BPRHE5EC489517',
-    price: '$2532.84',
+    price: '2532.84',
     availability: false,
   },
   {
@@ -5358,7 +5358,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2012,
     car_vin: 'WBA3A9C52CF018312',
-    price: '$1900.40',
+    price: '1900.40',
     availability: true,
   },
   {
@@ -5368,7 +5368,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1966,
     car_vin: 'SCFHDDAJ3CA569897',
-    price: '$1756.57',
+    price: '1756.57',
     availability: true,
   },
   {
@@ -5378,7 +5378,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2009,
     car_vin: '1N6AA0CA1CN442537',
-    price: '$1740.48',
+    price: '1740.48',
     availability: true,
   },
   {
@@ -5388,7 +5388,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1999,
     car_vin: 'WA1MKAFP1AA254201',
-    price: '$1260.17',
+    price: '1260.17',
     availability: false,
   },
   {
@@ -5398,7 +5398,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2009,
     car_vin: '1N4AA5APXDC468001',
-    price: '$2147.64',
+    price: '2147.64',
     availability: true,
   },
   {
@@ -5408,7 +5408,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 1986,
     car_vin: 'WBABS53451J493438',
-    price: '$3179.81',
+    price: '3179.81',
     availability: false,
   },
   {
@@ -5418,7 +5418,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2007,
     car_vin: 'W04GY5GV9B1288548',
-    price: '$3354.51',
+    price: '3354.51',
     availability: true,
   },
   {
@@ -5428,7 +5428,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2008,
     car_vin: 'JN1CV6FE7BM341060',
-    price: '$1173.21',
+    price: '1173.21',
     availability: true,
   },
   {
@@ -5438,7 +5438,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 1995,
     car_vin: '5XXGM4A72FG623763',
-    price: '$2869.77',
+    price: '2869.77',
     availability: true,
   },
   {
@@ -5448,7 +5448,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1989,
     car_vin: 'WA1CV94L69D694913',
-    price: '$1067.86',
+    price: '1067.86',
     availability: false,
   },
   {
@@ -5458,7 +5458,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2004,
     car_vin: 'KNAFK4A67E5972653',
-    price: '$1071.52',
+    price: '1071.52',
     availability: false,
   },
   {
@@ -5468,7 +5468,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1994,
     car_vin: 'JTDBT4K37B4949569',
-    price: '$2204.11',
+    price: '2204.11',
     availability: true,
   },
   {
@@ -5478,7 +5478,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 1998,
     car_vin: 'KNAFT4A20D5776224',
-    price: '$2648.77',
+    price: '2648.77',
     availability: false,
   },
   {
@@ -5488,7 +5488,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1999,
     car_vin: '1GYUKBEF7AR193288',
-    price: '$2370.63',
+    price: '2370.63',
     availability: false,
   },
   {
@@ -5498,7 +5498,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2007,
     car_vin: 'WBAFU9C55DD499268',
-    price: '$1903.03',
+    price: '1903.03',
     availability: true,
   },
   {
@@ -5508,7 +5508,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 2005,
     car_vin: 'WAULD54B14N525360',
-    price: '$3325.11',
+    price: '3325.11',
     availability: true,
   },
   {
@@ -5518,7 +5518,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1995,
     car_vin: 'WAUML44D63N321137',
-    price: '$1384.37',
+    price: '1384.37',
     availability: true,
   },
   {
@@ -5528,7 +5528,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1996,
     car_vin: 'WBAWB73519P626565',
-    price: '$1160.01',
+    price: '1160.01',
     availability: true,
   },
   {
@@ -5538,7 +5538,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2007,
     car_vin: '1G6DW677950908303',
-    price: '$1510.16',
+    price: '1510.16',
     availability: false,
   },
   {
@@ -5548,7 +5548,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2003,
     car_vin: 'JTDKN3DU4B0803258',
-    price: '$3835.76',
+    price: '3835.76',
     availability: true,
   },
   {
@@ -5558,7 +5558,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1987,
     car_vin: '4T1BF3EK4AU484182',
-    price: '$1635.86',
+    price: '1635.86',
     availability: false,
   },
   {
@@ -5568,7 +5568,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1996,
     car_vin: 'WBAUT9C52BA724903',
-    price: '$1685.72',
+    price: '1685.72',
     availability: false,
   },
   {
@@ -5578,7 +5578,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1992,
     car_vin: 'KNAFX6A83E5220737',
-    price: '$2481.72',
+    price: '2481.72',
     availability: false,
   },
   {
@@ -5588,7 +5588,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2008,
     car_vin: '2HNYB1H44CH018456',
-    price: '$1167.09',
+    price: '1167.09',
     availability: false,
   },
   {
@@ -5598,7 +5598,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2004,
     car_vin: 'JTHSE5BCXF5163585',
-    price: '$2151.59',
+    price: '2151.59',
     availability: false,
   },
   {
@@ -5608,7 +5608,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1989,
     car_vin: 'JH4CU2E64AC794946',
-    price: '$2191.49',
+    price: '2191.49',
     availability: true,
   },
   {
@@ -5618,7 +5618,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 1985,
     car_vin: '3VW8S7AT8FM097417',
-    price: '$2398.58',
+    price: '2398.58',
     availability: true,
   },
   {
@@ -5628,7 +5628,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 2004,
     car_vin: 'WBADT53421C643189',
-    price: '$3196.49',
+    price: '3196.49',
     availability: true,
   },
   {
@@ -5638,7 +5638,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2010,
     car_vin: '1FTWX3D57AE669865',
-    price: '$1374.90',
+    price: '1374.90',
     availability: false,
   },
   {
@@ -5648,7 +5648,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 1994,
     car_vin: '1G6DV1EPXC0520325',
-    price: '$3181.63',
+    price: '3181.63',
     availability: true,
   },
   {
@@ -5658,7 +5658,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1993,
     car_vin: 'WAUVC68E35A008396',
-    price: '$2225.19',
+    price: '2225.19',
     availability: true,
   },
   {
@@ -5668,7 +5668,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2008,
     car_vin: '3N1CN7AP0EK141530',
-    price: '$2370.71',
+    price: '2370.71',
     availability: false,
   },
   {
@@ -5678,7 +5678,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1998,
     car_vin: '2HNYB1H61DH142512',
-    price: '$1870.32',
+    price: '1870.32',
     availability: true,
   },
   {
@@ -5688,7 +5688,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1995,
     car_vin: '3G5DB03E93S831035',
-    price: '$1480.82',
+    price: '1480.82',
     availability: false,
   },
   {
@@ -5698,7 +5698,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1997,
     car_vin: '4A37L3ET7AE204290',
-    price: '$3752.06',
+    price: '3752.06',
     availability: true,
   },
   {
@@ -5708,7 +5708,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2010,
     car_vin: 'ZFBCFADH2FZ800064',
-    price: '$3024.00',
+    price: '3024.00',
     availability: true,
   },
   {
@@ -5718,7 +5718,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2008,
     car_vin: 'WBAEV53495K444411',
-    price: '$3087.80',
+    price: '3087.80',
     availability: false,
   },
   {
@@ -5728,7 +5728,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 1992,
     car_vin: 'JN8AS5MT2DW461904',
-    price: '$3877.27',
+    price: '3877.27',
     availability: true,
   },
   {
@@ -5738,7 +5738,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2011,
     car_vin: '5N1AZ2MG6FN107431',
-    price: '$1641.60',
+    price: '1641.60',
     availability: false,
   },
   {
@@ -5748,7 +5748,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2009,
     car_vin: '1FTMF1EW0AK494253',
-    price: '$2448.83',
+    price: '2448.83',
     availability: false,
   },
   {
@@ -5758,7 +5758,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2002,
     car_vin: '4T1BB3EK1AU803954',
-    price: '$2386.69',
+    price: '2386.69',
     availability: false,
   },
   {
@@ -5768,7 +5768,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2005,
     car_vin: 'WAUDN94F98N409244',
-    price: '$2792.36',
+    price: '2792.36',
     availability: true,
   },
   {
@@ -5778,7 +5778,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1984,
     car_vin: 'WAUKH98E97A087341',
-    price: '$2334.63',
+    price: '2334.63',
     availability: true,
   },
   {
@@ -5788,7 +5788,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2011,
     car_vin: 'JN1CV6EK8EM104878',
-    price: '$2152.29',
+    price: '2152.29',
     availability: false,
   },
   {
@@ -5798,7 +5798,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1995,
     car_vin: 'YV440MBD1F1362170',
-    price: '$3583.83',
+    price: '3583.83',
     availability: false,
   },
   {
@@ -5808,7 +5808,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 2008,
     car_vin: 'WBALL5C57EJ837836',
-    price: '$3518.87',
+    price: '3518.87',
     availability: true,
   },
   {
@@ -5818,7 +5818,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 1999,
     car_vin: '1GKS1FEJ1CR230466',
-    price: '$3854.61',
+    price: '3854.61',
     availability: false,
   },
   {
@@ -5828,7 +5828,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 2012,
     car_vin: '1ZVBP8AM7E5061700',
-    price: '$2873.38',
+    price: '2873.38',
     availability: true,
   },
   {
@@ -5838,7 +5838,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1994,
     car_vin: '3VWPG3AGXAM521732',
-    price: '$1845.17',
+    price: '1845.17',
     availability: true,
   },
   {
@@ -5848,7 +5848,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1990,
     car_vin: 'WA1AGBFE4CD590855',
-    price: '$3016.74',
+    price: '3016.74',
     availability: false,
   },
   {
@@ -5858,7 +5858,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2008,
     car_vin: '3D73Y4EL1BG554815',
-    price: '$3371.67',
+    price: '3371.67',
     availability: true,
   },
   {
@@ -5868,7 +5868,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2006,
     car_vin: '5GAKVCKD9FJ355751',
-    price: '$2965.79',
+    price: '2965.79',
     availability: true,
   },
   {
@@ -5878,7 +5878,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1986,
     car_vin: '2C3CCAPG0DH373459',
-    price: '$1903.49',
+    price: '1903.49',
     availability: false,
   },
   {
@@ -5888,7 +5888,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1988,
     car_vin: '1G6KD57947U841355',
-    price: '$1536.82',
+    price: '1536.82',
     availability: false,
   },
   {
@@ -5898,7 +5898,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 1993,
     car_vin: '5UXFE8C5XAL861654',
-    price: '$2023.64',
+    price: '2023.64',
     availability: true,
   },
   {
@@ -5908,7 +5908,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1990,
     car_vin: '1FBNE3BL4CD738544',
-    price: '$2752.27',
+    price: '2752.27',
     availability: true,
   },
   {
@@ -5918,7 +5918,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2006,
     car_vin: '1G4HP52K35U744830',
-    price: '$1403.10',
+    price: '1403.10',
     availability: false,
   },
   {
@@ -5928,7 +5928,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2007,
     car_vin: '1C4PJLAK1CW630334',
-    price: '$1880.52',
+    price: '1880.52',
     availability: true,
   },
   {
@@ -5938,7 +5938,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1998,
     car_vin: 'JM1NC2NF2E0451671',
-    price: '$2677.43',
+    price: '2677.43',
     availability: false,
   },
   {
@@ -5948,7 +5948,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1993,
     car_vin: '1C3BCBEB1EN528781',
-    price: '$2801.32',
+    price: '2801.32',
     availability: false,
   },
   {
@@ -5958,7 +5958,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1991,
     car_vin: 'WA1LMAFE5BD121655',
-    price: '$2030.81',
+    price: '2030.81',
     availability: true,
   },
   {
@@ -5968,7 +5968,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 2000,
     car_vin: 'JN8AF5MR4CT648229',
-    price: '$3745.90',
+    price: '3745.90',
     availability: true,
   },
   {
@@ -5978,7 +5978,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1995,
     car_vin: 'NM0KS9BN1BT186615',
-    price: '$3350.14',
+    price: '3350.14',
     availability: false,
   },
   {
@@ -5988,7 +5988,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2012,
     car_vin: '1G4GD5GD7BF043237',
-    price: '$1821.16',
+    price: '1821.16',
     availability: true,
   },
   {
@@ -5998,7 +5998,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2005,
     car_vin: 'WAUBC48H76K761622',
-    price: '$3641.52',
+    price: '3641.52',
     availability: true,
   },
   {
@@ -6008,7 +6008,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2006,
     car_vin: 'WAUKH78E77A370163',
-    price: '$1308.40',
+    price: '1308.40',
     availability: true,
   },
   {
@@ -6018,7 +6018,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2007,
     car_vin: '2C3CCAGG4FH496135',
-    price: '$1503.60',
+    price: '1503.60',
     availability: false,
   },
   {
@@ -6028,7 +6028,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2008,
     car_vin: 'YV4902DZ9B2963785',
-    price: '$3333.74',
+    price: '3333.74',
     availability: false,
   },
   {
@@ -6038,7 +6038,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 1993,
     car_vin: '1C6RD6JT9CS912844',
-    price: '$2497.56',
+    price: '2497.56',
     availability: false,
   },
   {
@@ -6048,7 +6048,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2008,
     car_vin: '3D7TT2CT2AG900214',
-    price: '$3423.83',
+    price: '3423.83',
     availability: false,
   },
   {
@@ -6058,7 +6058,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2011,
     car_vin: '1D4PT7GX1AW293166',
-    price: '$2775.44',
+    price: '2775.44',
     availability: false,
   },
   {
@@ -6068,7 +6068,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1998,
     car_vin: 'WVWAP7AN3DE448356',
-    price: '$3366.03',
+    price: '3366.03',
     availability: true,
   },
   {
@@ -6078,7 +6078,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1994,
     car_vin: 'JA32X2HU6BU688457',
-    price: '$2784.51',
+    price: '2784.51',
     availability: true,
   },
   {
@@ -6088,7 +6088,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2007,
     car_vin: '3N1AB7AP2FL443414',
-    price: '$1353.04',
+    price: '1353.04',
     availability: false,
   },
   {
@@ -6098,7 +6098,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1991,
     car_vin: '2C3CCAHG9CH109623',
-    price: '$3860.54',
+    price: '3860.54',
     availability: true,
   },
   {
@@ -6108,7 +6108,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2012,
     car_vin: 'WAUFL54D91N998369',
-    price: '$3614.36',
+    price: '3614.36',
     availability: false,
   },
   {
@@ -6118,7 +6118,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 2000,
     car_vin: 'WA1WMBFE8FD899750',
-    price: '$3832.02',
+    price: '3832.02',
     availability: true,
   },
   {
@@ -6128,7 +6128,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1995,
     car_vin: '5TFCW5F10DX444372',
-    price: '$1711.28',
+    price: '1711.28',
     availability: true,
   },
   {
@@ -6138,7 +6138,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2005,
     car_vin: 'WAUMK98K79A116807',
-    price: '$3252.51',
+    price: '3252.51',
     availability: false,
   },
   {
@@ -6148,7 +6148,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1992,
     car_vin: '1G6DH8EG3A0802545',
-    price: '$2627.95',
+    price: '2627.95',
     availability: false,
   },
   {
@@ -6158,7 +6158,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2010,
     car_vin: 'WAUKF78P79A036872',
-    price: '$1366.66',
+    price: '1366.66',
     availability: false,
   },
   {
@@ -6168,7 +6168,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1985,
     car_vin: '5GADX33L75D011812',
-    price: '$1127.24',
+    price: '1127.24',
     availability: true,
   },
   {
@@ -6178,7 +6178,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2000,
     car_vin: 'JN8AS5MT5DW200086',
-    price: '$2000.91',
+    price: '2000.91',
     availability: true,
   },
   {
@@ -6188,7 +6188,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2006,
     car_vin: '3TMJU4GN3DM009229',
-    price: '$3147.03',
+    price: '3147.03',
     availability: false,
   },
   {
@@ -6198,7 +6198,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 1994,
     car_vin: '1GYFC36239R593111',
-    price: '$3644.54',
+    price: '3644.54',
     availability: false,
   },
   {
@@ -6208,7 +6208,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2004,
     car_vin: 'JN8AS5MTXDW076722',
-    price: '$1627.08',
+    price: '1627.08',
     availability: false,
   },
   {
@@ -6218,7 +6218,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2000,
     car_vin: 'WBA5B1C5XFG869764',
-    price: '$1173.47',
+    price: '1173.47',
     availability: true,
   },
   {
@@ -6228,7 +6228,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 1991,
     car_vin: 'WDDHF0EB2EB514235',
-    price: '$2196.05',
+    price: '2196.05',
     availability: false,
   },
   {
@@ -6238,7 +6238,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2009,
     car_vin: 'WAUEH74F96N446551',
-    price: '$3329.00',
+    price: '3329.00',
     availability: true,
   },
   {
@@ -6248,7 +6248,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1991,
     car_vin: '2T1BURHE4EC106773',
-    price: '$2015.37',
+    price: '2015.37',
     availability: false,
   },
   {
@@ -6258,7 +6258,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1991,
     car_vin: '3N1CN7AP8FL548507',
-    price: '$1530.10',
+    price: '1530.10',
     availability: true,
   },
   {
@@ -6268,7 +6268,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1996,
     car_vin: '2C3CCADT2CH029986',
-    price: '$3816.55',
+    price: '3816.55',
     availability: true,
   },
   {
@@ -6278,7 +6278,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 1996,
     car_vin: '3VW8S7AT1FM114414',
-    price: '$3597.15',
+    price: '3597.15',
     availability: true,
   },
   {
@@ -6288,7 +6288,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1983,
     car_vin: 'WAULV94E59N413814',
-    price: '$3942.04',
+    price: '3942.04',
     availability: true,
   },
   {
@@ -6298,7 +6298,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1964,
     car_vin: 'WBABN53433J368223',
-    price: '$2075.91',
+    price: '2075.91',
     availability: true,
   },
   {
@@ -6308,7 +6308,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1986,
     car_vin: 'WBAEN33484P977405',
-    price: '$2106.91',
+    price: '2106.91',
     availability: true,
   },
   {
@@ -6318,7 +6318,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2007,
     car_vin: 'WBASP2C53CC402831',
-    price: '$1487.08',
+    price: '1487.08',
     availability: true,
   },
   {
@@ -6328,7 +6328,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1990,
     car_vin: 'WAUHGAFC8CN610657',
-    price: '$3423.87',
+    price: '3423.87',
     availability: true,
   },
   {
@@ -6338,7 +6338,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 1995,
     car_vin: '3VWA17AU5FM647685',
-    price: '$2440.66',
+    price: '2440.66',
     availability: true,
   },
   {
@@ -6348,7 +6348,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2004,
     car_vin: 'SCBDC3ZAXDC295671',
-    price: '$3011.10',
+    price: '3011.10',
     availability: true,
   },
   {
@@ -6358,7 +6358,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1994,
     car_vin: '1N4AL2AP6AN566225',
-    price: '$2510.28',
+    price: '2510.28',
     availability: false,
   },
   {
@@ -6368,7 +6368,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 2007,
     car_vin: 'WBA4A9C5XFG116734',
-    price: '$1336.28',
+    price: '1336.28',
     availability: true,
   },
   {
@@ -6378,7 +6378,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1985,
     car_vin: 'ZFBCFAAH6EZ396995',
-    price: '$3144.07',
+    price: '3144.07',
     availability: true,
   },
   {
@@ -6388,7 +6388,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2008,
     car_vin: '3C3CFFHH2DT497154',
-    price: '$1084.28',
+    price: '1084.28',
     availability: true,
   },
   {
@@ -6398,7 +6398,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2007,
     car_vin: 'WP0CA2A82FK617746',
-    price: '$3564.39',
+    price: '3564.39',
     availability: true,
   },
   {
@@ -6408,7 +6408,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2005,
     car_vin: '2G4WS55J631130128',
-    price: '$2585.27',
+    price: '2585.27',
     availability: true,
   },
   {
@@ -6418,7 +6418,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1998,
     car_vin: 'SAJWA0EX5E8590297',
-    price: '$1959.98',
+    price: '1959.98',
     availability: true,
   },
   {
@@ -6428,7 +6428,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1964,
     car_vin: '1FAHP3EN3AW550432',
-    price: '$3570.57',
+    price: '3570.57',
     availability: true,
   },
   {
@@ -6438,7 +6438,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1995,
     car_vin: '2G4WE567351049486',
-    price: '$1934.74',
+    price: '1934.74',
     availability: true,
   },
   {
@@ -6448,7 +6448,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 1988,
     car_vin: 'WVGAV7AX9BW297663',
-    price: '$2319.98',
+    price: '2319.98',
     availability: true,
   },
   {
@@ -6458,7 +6458,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2005,
     car_vin: '3GYEK63N42G679256',
-    price: '$1635.08',
+    price: '1635.08',
     availability: true,
   },
   {
@@ -6468,7 +6468,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2004,
     car_vin: '2C3CDXJG8CH882917',
-    price: '$3615.44',
+    price: '3615.44',
     availability: false,
   },
   {
@@ -6478,7 +6478,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 1986,
     car_vin: 'KNDKG3A22A7223395',
-    price: '$2902.70',
+    price: '2902.70',
     availability: false,
   },
   {
@@ -6488,7 +6488,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2000,
     car_vin: 'WA1VMAFE8ED648585',
-    price: '$1271.50',
+    price: '1271.50',
     availability: true,
   },
   {
@@ -6498,7 +6498,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2008,
     car_vin: '1C4SDJCT1CC166362',
-    price: '$2314.93',
+    price: '2314.93',
     availability: true,
   },
   {
@@ -6508,7 +6508,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1996,
     car_vin: 'JTHBK1EG3A2545192',
-    price: '$3675.69',
+    price: '3675.69',
     availability: true,
   },
   {
@@ -6518,7 +6518,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 1984,
     car_vin: 'SCBGR3ZA3DC549443',
-    price: '$1288.53',
+    price: '1288.53',
     availability: false,
   },
   {
@@ -6528,7 +6528,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1997,
     car_vin: '2G4WC582261794013',
-    price: '$1983.25',
+    price: '1983.25',
     availability: false,
   },
   {
@@ -6538,7 +6538,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2007,
     car_vin: 'JN1CV6AP0BM845782',
-    price: '$3075.39',
+    price: '3075.39',
     availability: false,
   },
   {
@@ -6548,7 +6548,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2007,
     car_vin: 'JH4CL95897C021430',
-    price: '$2349.97',
+    price: '2349.97',
     availability: true,
   },
   {
@@ -6558,7 +6558,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1983,
     car_vin: '1FTEW1CF4FF374821',
-    price: '$2290.91',
+    price: '2290.91',
     availability: true,
   },
   {
@@ -6568,7 +6568,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2004,
     car_vin: 'KNDJT2A58C7771108',
-    price: '$2847.90',
+    price: '2847.90',
     availability: false,
   },
   {
@@ -6578,7 +6578,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2011,
     car_vin: 'WAUHFAFL9CA041876',
-    price: '$3954.66',
+    price: '3954.66',
     availability: false,
   },
   {
@@ -6588,7 +6588,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2012,
     car_vin: '2HNYD18206H571375',
-    price: '$1593.26',
+    price: '1593.26',
     availability: true,
   },
   {
@@ -6598,7 +6598,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 2006,
     car_vin: '1ZVBP8AM9B5240848',
-    price: '$3915.29',
+    price: '3915.29',
     availability: false,
   },
   {
@@ -6608,7 +6608,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2007,
     car_vin: '1G6EL12Y71B666836',
-    price: '$2619.62',
+    price: '2619.62',
     availability: false,
   },
   {
@@ -6618,7 +6618,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1999,
     car_vin: '1G6YV36A075086562',
-    price: '$3498.96',
+    price: '3498.96',
     availability: false,
   },
   {
@@ -6628,7 +6628,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2004,
     car_vin: 'WBAUC73568V413190',
-    price: '$3555.74',
+    price: '3555.74',
     availability: false,
   },
   {
@@ -6638,7 +6638,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2013,
     car_vin: '1N4AL2APXAN188281',
-    price: '$1768.13',
+    price: '1768.13',
     availability: true,
   },
   {
@@ -6648,7 +6648,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2005,
     car_vin: 'SAJWA4EC6FM481165',
-    price: '$3385.42',
+    price: '3385.42',
     availability: false,
   },
   {
@@ -6658,7 +6658,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 2008,
     car_vin: '5N1AT2ML6FC858734',
-    price: '$1170.23',
+    price: '1170.23',
     availability: false,
   },
   {
@@ -6668,7 +6668,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2002,
     car_vin: '1FBNE3BLXCD639436',
-    price: '$3005.31',
+    price: '3005.31',
     availability: true,
   },
   {
@@ -6678,7 +6678,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2005,
     car_vin: '1GTN2TEHXFZ610895',
-    price: '$2206.71',
+    price: '2206.71',
     availability: true,
   },
   {
@@ -6688,7 +6688,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1996,
     car_vin: 'SCBBR53W968033491',
-    price: '$3921.95',
+    price: '3921.95',
     availability: true,
   },
   {
@@ -6698,7 +6698,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1992,
     car_vin: 'KNAFU6A25C5326785',
-    price: '$2442.62',
+    price: '2442.62',
     availability: true,
   },
   {
@@ -6708,7 +6708,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1986,
     car_vin: '19UUA56612A226571',
-    price: '$1968.66',
+    price: '1968.66',
     availability: true,
   },
   {
@@ -6718,7 +6718,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1987,
     car_vin: '5J8TB4H38DL629086',
-    price: '$2149.09',
+    price: '2149.09',
     availability: false,
   },
   {
@@ -6728,7 +6728,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2007,
     car_vin: '1GYS3FEJ0CR123909',
-    price: '$1012.37',
+    price: '1012.37',
     availability: false,
   },
   {
@@ -6738,7 +6738,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2009,
     car_vin: '3D7TP2CT9BG974784',
-    price: '$1972.58',
+    price: '1972.58',
     availability: true,
   },
   {
@@ -6748,7 +6748,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2003,
     car_vin: '1FTNX2A53AE876957',
-    price: '$1859.80',
+    price: '1859.80',
     availability: false,
   },
   {
@@ -6758,7 +6758,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2003,
     car_vin: '1GYS4BEFXDR684038',
-    price: '$1324.15',
+    price: '1324.15',
     availability: true,
   },
   {
@@ -6768,7 +6768,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2006,
     car_vin: 'WAUMK78K69A170863',
-    price: '$1471.09',
+    price: '1471.09',
     availability: false,
   },
   {
@@ -6778,7 +6778,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2007,
     car_vin: 'WAUHF98P97A813104',
-    price: '$2099.98',
+    price: '2099.98',
     availability: true,
   },
   {
@@ -6788,7 +6788,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1989,
     car_vin: '5UXFG43579L579325',
-    price: '$1124.38',
+    price: '1124.38',
     availability: false,
   },
   {
@@ -6798,7 +6798,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1984,
     car_vin: '1GYEC63808R388091',
-    price: '$1395.00',
+    price: '1395.00',
     availability: false,
   },
   {
@@ -6808,7 +6808,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 1995,
     car_vin: 'JM3TB2MA6A0034801',
-    price: '$1356.63',
+    price: '1356.63',
     availability: true,
   },
   {
@@ -6818,7 +6818,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1986,
     car_vin: 'WBAEN334X2E623765',
-    price: '$2477.93',
+    price: '2477.93',
     availability: false,
   },
   {
@@ -6828,7 +6828,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1994,
     car_vin: '5FRYD3H29GB285287',
-    price: '$1256.48',
+    price: '1256.48',
     availability: false,
   },
   {
@@ -6838,7 +6838,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1987,
     car_vin: '1C4RDJDGXEC455372',
-    price: '$1493.75',
+    price: '1493.75',
     availability: true,
   },
   {
@@ -6848,7 +6848,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1999,
     car_vin: '1G4HJ5EM3BU884886',
-    price: '$2335.83',
+    price: '2335.83',
     availability: false,
   },
   {
@@ -6858,7 +6858,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 1998,
     car_vin: 'WA1VMBFE1DD375770',
-    price: '$2990.73',
+    price: '2990.73',
     availability: true,
   },
   {
@@ -6868,7 +6868,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1992,
     car_vin: '5FNRL5H22DB168814',
-    price: '$2688.99',
+    price: '2688.99',
     availability: false,
   },
   {
@@ -6878,7 +6878,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2009,
     car_vin: '3TMJU4GN3BM836340',
-    price: '$2582.89',
+    price: '2582.89',
     availability: true,
   },
   {
@@ -6888,7 +6888,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1994,
     car_vin: 'YV1612FH5D1886701',
-    price: '$1386.41',
+    price: '1386.41',
     availability: true,
   },
   {
@@ -6898,7 +6898,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2008,
     car_vin: 'WBALL5C52FP998321',
-    price: '$2146.08',
+    price: '2146.08',
     availability: false,
   },
   {
@@ -6908,7 +6908,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 2007,
     car_vin: 'WAUNF78P87A277740',
-    price: '$3627.78',
+    price: '3627.78',
     availability: false,
   },
   {
@@ -6918,7 +6918,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 1992,
     car_vin: 'JTHBP5C29E5131550',
-    price: '$2666.01',
+    price: '2666.01',
     availability: false,
   },
   {
@@ -6928,7 +6928,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2009,
     car_vin: '1FTSX2A53AE518065',
-    price: '$2442.46',
+    price: '2442.46',
     availability: false,
   },
   {
@@ -6938,7 +6938,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2003,
     car_vin: '5N1BA0NC4FN104734',
-    price: '$2794.49',
+    price: '2794.49',
     availability: true,
   },
   {
@@ -6948,7 +6948,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1998,
     car_vin: 'JTDKTUD36ED395877',
-    price: '$3290.71',
+    price: '3290.71',
     availability: false,
   },
   {
@@ -6958,7 +6958,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2003,
     car_vin: 'WP0CB2A87CS190556',
-    price: '$3258.97',
+    price: '3258.97',
     availability: false,
   },
   {
@@ -6968,7 +6968,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 1998,
     car_vin: 'SCFBB03B27G871047',
-    price: '$2430.16',
+    price: '2430.16',
     availability: false,
   },
   {
@@ -6978,7 +6978,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2000,
     car_vin: '1GYS3KEF4ER224863',
-    price: '$3081.39',
+    price: '3081.39',
     availability: true,
   },
   {
@@ -6988,7 +6988,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2011,
     car_vin: '3VW517ATXFM565203',
-    price: '$1275.25',
+    price: '1275.25',
     availability: true,
   },
   {
@@ -6998,7 +6998,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1997,
     car_vin: 'WAUJC58E55A816211',
-    price: '$2888.01',
+    price: '2888.01',
     availability: true,
   },
   {
@@ -7008,7 +7008,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1992,
     car_vin: 'WA1CGAFE9DD014201',
-    price: '$3369.67',
+    price: '3369.67',
     availability: true,
   },
   {
@@ -7018,7 +7018,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2010,
     car_vin: 'WDBSK7BA4CF945115',
-    price: '$3329.26',
+    price: '3329.26',
     availability: false,
   },
   {
@@ -7028,7 +7028,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 1981,
     car_vin: '5N1AN0NW3FN269166',
-    price: '$2140.00',
+    price: '2140.00',
     availability: true,
   },
   {
@@ -7038,7 +7038,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 2005,
     car_vin: 'WAUUL78E86A471718',
-    price: '$2950.39',
+    price: '2950.39',
     availability: false,
   },
   {
@@ -7048,7 +7048,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1996,
     car_vin: 'WAUHE78P49A555648',
-    price: '$3456.62',
+    price: '3456.62',
     availability: true,
   },
   {
@@ -7058,7 +7058,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 1993,
     car_vin: '3MZBM1K79EM411380',
-    price: '$3420.00',
+    price: '3420.00',
     availability: false,
   },
   {
@@ -7068,7 +7068,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 1999,
     car_vin: '1B3CB9HA0BD620661',
-    price: '$3230.99',
+    price: '3230.99',
     availability: false,
   },
   {
@@ -7078,7 +7078,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2008,
     car_vin: '2G4WE587561752554',
-    price: '$2354.62',
+    price: '2354.62',
     availability: false,
   },
   {
@@ -7088,7 +7088,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2009,
     car_vin: 'WBAYB6C58ED146666',
-    price: '$3969.48',
+    price: '3969.48',
     availability: false,
   },
   {
@@ -7098,7 +7098,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2003,
     car_vin: 'WAUDF78E57A976236',
-    price: '$3890.21',
+    price: '3890.21',
     availability: true,
   },
   {
@@ -7108,7 +7108,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1993,
     car_vin: 'WBABS53471E614494',
-    price: '$1867.44',
+    price: '1867.44',
     availability: false,
   },
   {
@@ -7118,7 +7118,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2011,
     car_vin: '19XFB4F26DE554449',
-    price: '$1434.86',
+    price: '1434.86',
     availability: true,
   },
   {
@@ -7128,7 +7128,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2006,
     car_vin: '5TFBY5F11DX304305',
-    price: '$3791.29',
+    price: '3791.29',
     availability: false,
   },
   {
@@ -7138,7 +7138,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1992,
     car_vin: 'WAUMFAFL5DA018207',
-    price: '$2822.28',
+    price: '2822.28',
     availability: true,
   },
   {
@@ -7148,7 +7148,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2007,
     car_vin: 'WVWEU9AN0AE161753',
-    price: '$2576.20',
+    price: '2576.20',
     availability: true,
   },
   {
@@ -7158,7 +7158,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1995,
     car_vin: 'WA1CGAFP8FA271744',
-    price: '$3442.37',
+    price: '3442.37',
     availability: true,
   },
   {
@@ -7168,7 +7168,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 1987,
     car_vin: '1D4RE5GG2BC799986',
-    price: '$1688.38',
+    price: '1688.38',
     availability: true,
   },
   {
@@ -7178,7 +7178,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1986,
     car_vin: '1FTEW1C88FF168189',
-    price: '$1121.93',
+    price: '1121.93',
     availability: false,
   },
   {
@@ -7188,7 +7188,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2004,
     car_vin: '1N6AA0CA6FN956999',
-    price: '$3063.99',
+    price: '3063.99',
     availability: false,
   },
   {
@@ -7198,7 +7198,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1992,
     car_vin: 'WVGEF9BP7DD975298',
-    price: '$2483.97',
+    price: '2483.97',
     availability: false,
   },
   {
@@ -7208,7 +7208,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2011,
     car_vin: 'JN1CV6EK0DM880551',
-    price: '$3027.78',
+    price: '3027.78',
     availability: false,
   },
   {
@@ -7218,7 +7218,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2006,
     car_vin: '1G6AY5SX2F0444674',
-    price: '$2538.87',
+    price: '2538.87',
     availability: true,
   },
   {
@@ -7228,7 +7228,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 1995,
     car_vin: 'WBANE73586C065660',
-    price: '$2929.51',
+    price: '2929.51',
     availability: true,
   },
   {
@@ -7238,7 +7238,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2011,
     car_vin: 'WA1WKBFP0BA835687',
-    price: '$3196.07',
+    price: '3196.07',
     availability: false,
   },
   {
@@ -7248,7 +7248,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1997,
     car_vin: 'WBA6A0C56FD116588',
-    price: '$1944.26',
+    price: '1944.26',
     availability: false,
   },
   {
@@ -7258,7 +7258,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1994,
     car_vin: 'WAUDF78E28A384813',
-    price: '$1801.78',
+    price: '1801.78',
     availability: false,
   },
   {
@@ -7268,7 +7268,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 2005,
     car_vin: 'WAUKD78P06A586688',
-    price: '$3817.30',
+    price: '3817.30',
     availability: false,
   },
   {
@@ -7278,7 +7278,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1992,
     car_vin: 'JH4DB76581S058367',
-    price: '$2390.41',
+    price: '2390.41',
     availability: true,
   },
   {
@@ -7288,7 +7288,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1999,
     car_vin: 'WBABD53494P474001',
-    price: '$1648.49',
+    price: '1648.49',
     availability: false,
   },
   {
@@ -7298,7 +7298,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2006,
     car_vin: '1G6DT57V290896986',
-    price: '$3213.16',
+    price: '3213.16',
     availability: true,
   },
   {
@@ -7308,7 +7308,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1973,
     car_vin: 'TRUWX28N011453506',
-    price: '$3369.55',
+    price: '3369.55',
     availability: true,
   },
   {
@@ -7318,7 +7318,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1995,
     car_vin: '1G6AR5S35E0716479',
-    price: '$3251.78',
+    price: '3251.78',
     availability: true,
   },
   {
@@ -7328,7 +7328,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2008,
     car_vin: '19UUA65685A753468',
-    price: '$2024.93',
+    price: '2024.93',
     availability: true,
   },
   {
@@ -7338,7 +7338,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2006,
     car_vin: 'JHMGE8G35BC813168',
-    price: '$1112.78',
+    price: '1112.78',
     availability: false,
   },
   {
@@ -7348,7 +7348,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1999,
     car_vin: '2G4GU5GV6D9608016',
-    price: '$2192.53',
+    price: '2192.53',
     availability: false,
   },
   {
@@ -7358,7 +7358,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2008,
     car_vin: '19UYA42643A340051',
-    price: '$3574.83',
+    price: '3574.83',
     availability: true,
   },
   {
@@ -7368,7 +7368,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2009,
     car_vin: '1D4PT5GK6AW654741',
-    price: '$3766.69',
+    price: '3766.69',
     availability: false,
   },
   {
@@ -7378,7 +7378,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2010,
     car_vin: 'JM1CR2W35A0145181',
-    price: '$2436.82',
+    price: '2436.82',
     availability: true,
   },
   {
@@ -7388,7 +7388,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 1993,
     car_vin: '2C3CA5CG9BH368759',
-    price: '$3263.23',
+    price: '3263.23',
     availability: false,
   },
   {
@@ -7398,7 +7398,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1985,
     car_vin: 'JTHBK1GG3D2442517',
-    price: '$2922.36',
+    price: '2922.36',
     availability: false,
   },
   {
@@ -7408,7 +7408,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2007,
     car_vin: '1G6AP5SX4E0773894',
-    price: '$1565.09',
+    price: '1565.09',
     availability: true,
   },
   {
@@ -7418,7 +7418,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1988,
     car_vin: 'JN8AZ1FY1BW417077',
-    price: '$3836.34',
+    price: '3836.34',
     availability: false,
   },
   {
@@ -7428,7 +7428,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1997,
     car_vin: 'WDBWK5EA8BF707199',
-    price: '$3150.03',
+    price: '3150.03',
     availability: false,
   },
   {
@@ -7438,7 +7438,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1988,
     car_vin: '4F2CY0C73AK406701',
-    price: '$2143.01',
+    price: '2143.01',
     availability: true,
   },
   {
@@ -7448,7 +7448,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 1992,
     car_vin: '1D7RW3BK8AS507469',
-    price: '$3808.57',
+    price: '3808.57',
     availability: false,
   },
   {
@@ -7458,7 +7458,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1989,
     car_vin: '1FAHP2D87DG888131',
-    price: '$1208.15',
+    price: '1208.15',
     availability: true,
   },
   {
@@ -7468,7 +7468,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1995,
     car_vin: 'WAUDG74F99N467578',
-    price: '$3663.00',
+    price: '3663.00',
     availability: false,
   },
   {
@@ -7478,7 +7478,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2013,
     car_vin: 'WAUGGAFR9DA422769',
-    price: '$1013.87',
+    price: '1013.87',
     availability: false,
   },
   {
@@ -7488,7 +7488,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2001,
     car_vin: 'JTHBE5C26B5258161',
-    price: '$3793.39',
+    price: '3793.39',
     availability: false,
   },
   {
@@ -7498,7 +7498,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2012,
     car_vin: 'VNKJTUD37FA403846',
-    price: '$2645.76',
+    price: '2645.76',
     availability: true,
   },
   {
@@ -7508,7 +7508,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1989,
     car_vin: '4T1BF1FK6CU626120',
-    price: '$3597.99',
+    price: '3597.99',
     availability: false,
   },
   {
@@ -7518,7 +7518,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 1996,
     car_vin: '1FTWF3D51AE199268',
-    price: '$1346.37',
+    price: '1346.37',
     availability: false,
   },
   {
@@ -7528,7 +7528,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2011,
     car_vin: '2T2BC1BA6FC875847',
-    price: '$1555.02',
+    price: '1555.02',
     availability: false,
   },
   {
@@ -7538,7 +7538,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 1992,
     car_vin: '1FTMF1EW1AK514316',
-    price: '$2014.17',
+    price: '2014.17',
     availability: false,
   },
   {
@@ -7548,7 +7548,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1988,
     car_vin: '1G6DM56T050091172',
-    price: '$2038.56',
+    price: '2038.56',
     availability: false,
   },
   {
@@ -7558,7 +7558,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2008,
     car_vin: 'WAUDH48H48K503572',
-    price: '$1921.87',
+    price: '1921.87',
     availability: false,
   },
   {
@@ -7568,7 +7568,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1992,
     car_vin: '3VW1K7AJ7DM019739',
-    price: '$2082.13',
+    price: '2082.13',
     availability: true,
   },
   {
@@ -7578,7 +7578,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2012,
     car_vin: 'WAUVC58E64A333780',
-    price: '$2006.50',
+    price: '2006.50',
     availability: false,
   },
   {
@@ -7588,7 +7588,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1994,
     car_vin: 'YV140MEB2F1788408',
-    price: '$3411.89',
+    price: '3411.89',
     availability: true,
   },
   {
@@ -7598,7 +7598,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1992,
     car_vin: 'JTDJTUD38ED961209',
-    price: '$3224.88',
+    price: '3224.88',
     availability: true,
   },
   {
@@ -7608,7 +7608,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2003,
     car_vin: '5TFAW5F18FX888836',
-    price: '$1825.88',
+    price: '1825.88',
     availability: true,
   },
   {
@@ -7618,7 +7618,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 1996,
     car_vin: 'WBAHN83547D369647',
-    price: '$3324.67',
+    price: '3324.67',
     availability: false,
   },
   {
@@ -7628,7 +7628,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2002,
     car_vin: '3GYFNCE34ES428129',
-    price: '$1336.15',
+    price: '1336.15',
     availability: false,
   },
   {
@@ -7638,7 +7638,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2010,
     car_vin: '1FTEW1CMXDK048105',
-    price: '$3180.29',
+    price: '3180.29',
     availability: true,
   },
   {
@@ -7648,7 +7648,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1987,
     car_vin: 'WAUNG94F49N375780',
-    price: '$2122.82',
+    price: '2122.82',
     availability: true,
   },
   {
@@ -7658,7 +7658,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 1994,
     car_vin: '1GKS1HE07DR114807',
-    price: '$3907.33',
+    price: '3907.33',
     availability: false,
   },
   {
@@ -7668,7 +7668,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2006,
     car_vin: '1G6AL5SX2D0078503',
-    price: '$3468.05',
+    price: '3468.05',
     availability: true,
   },
   {
@@ -7678,7 +7678,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2004,
     car_vin: 'WAUMFAFL8CN737913',
-    price: '$2660.41',
+    price: '2660.41',
     availability: false,
   },
   {
@@ -7688,7 +7688,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1997,
     car_vin: '1FTSW2B58AE704105',
-    price: '$1242.79',
+    price: '1242.79',
     availability: true,
   },
   {
@@ -7698,7 +7698,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 1994,
     car_vin: 'WVWAA7AH3AV896104',
-    price: '$3238.57',
+    price: '3238.57',
     availability: false,
   },
   {
@@ -7708,7 +7708,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1994,
     car_vin: '1GYFK43569R177545',
-    price: '$2529.25',
+    price: '2529.25',
     availability: false,
   },
   {
@@ -7718,7 +7718,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1961,
     car_vin: 'KNAFK4A62F5694858',
-    price: '$3665.64',
+    price: '3665.64',
     availability: false,
   },
   {
@@ -7728,7 +7728,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2013,
     car_vin: '3G5DB03E92S564185',
-    price: '$1966.24',
+    price: '1966.24',
     availability: true,
   },
   {
@@ -7738,7 +7738,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2006,
     car_vin: 'JTDBT4K37B1223079',
-    price: '$2795.63',
+    price: '2795.63',
     availability: false,
   },
   {
@@ -7748,7 +7748,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2003,
     car_vin: 'JH4NA21651T907892',
-    price: '$1565.56',
+    price: '1565.56',
     availability: false,
   },
   {
@@ -7758,7 +7758,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1993,
     car_vin: '5J6TF3H3XCL798953',
-    price: '$1458.28',
+    price: '1458.28',
     availability: false,
   },
   {
@@ -7768,7 +7768,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1994,
     car_vin: '1FADP5CU5FL718150',
-    price: '$3961.36',
+    price: '3961.36',
     availability: false,
   },
   {
@@ -7778,7 +7778,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1989,
     car_vin: 'JN8AE2KP1C9047974',
-    price: '$1033.50',
+    price: '1033.50',
     availability: true,
   },
   {
@@ -7788,7 +7788,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 1998,
     car_vin: 'WAUBF48H28K141769',
-    price: '$1180.30',
+    price: '1180.30',
     availability: true,
   },
   {
@@ -7798,7 +7798,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 1998,
     car_vin: 'WAUEH54B31N728260',
-    price: '$1897.19',
+    price: '1897.19',
     availability: false,
   },
   {
@@ -7808,7 +7808,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2011,
     car_vin: 'WAUDF98E67A219194',
-    price: '$3097.38',
+    price: '3097.38',
     availability: true,
   },
   {
@@ -7818,7 +7818,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2005,
     car_vin: 'KMHHT6KD7EU340478',
-    price: '$1372.16',
+    price: '1372.16',
     availability: true,
   },
   {
@@ -7828,7 +7828,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2001,
     car_vin: 'SCFEBBBK8BG906855',
-    price: '$2438.84',
+    price: '2438.84',
     availability: false,
   },
   {
@@ -7838,7 +7838,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2007,
     car_vin: 'TRURD38J891179122',
-    price: '$2095.62',
+    price: '2095.62',
     availability: true,
   },
   {
@@ -7848,7 +7848,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1995,
     car_vin: 'YV1902FH7D2678426',
-    price: '$2210.03',
+    price: '2210.03',
     availability: true,
   },
   {
@@ -7858,7 +7858,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2006,
     car_vin: 'WAUEG98E36A335727',
-    price: '$3833.89',
+    price: '3833.89',
     availability: false,
   },
   {
@@ -7868,7 +7868,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2004,
     car_vin: 'WDBWK5EA5AF030272',
-    price: '$1557.41',
+    price: '1557.41',
     availability: true,
   },
   {
@@ -7878,7 +7878,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2012,
     car_vin: '1N6AD0CW3FN019529',
-    price: '$2505.86',
+    price: '2505.86',
     availability: false,
   },
   {
@@ -7888,7 +7888,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2005,
     car_vin: '3N1CN7AP7EK595483',
-    price: '$2309.50',
+    price: '2309.50',
     availability: true,
   },
   {
@@ -7898,7 +7898,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2007,
     car_vin: 'WAULT58E84A743262',
-    price: '$3213.45',
+    price: '3213.45',
     availability: false,
   },
   {
@@ -7908,7 +7908,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2006,
     car_vin: 'WAUDT48H06K105609',
-    price: '$1665.36',
+    price: '1665.36',
     availability: true,
   },
   {
@@ -7918,7 +7918,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2010,
     car_vin: '1FTSW3B50AE587349',
-    price: '$2003.51',
+    price: '2003.51',
     availability: true,
   },
   {
@@ -7928,7 +7928,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2010,
     car_vin: '1YVHZ8BH2D5853948',
-    price: '$1921.30',
+    price: '1921.30',
     availability: true,
   },
   {
@@ -7938,7 +7938,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1990,
     car_vin: '19UUA56643A987449',
-    price: '$3210.25',
+    price: '3210.25',
     availability: true,
   },
   {
@@ -7948,7 +7948,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1987,
     car_vin: '5N1AR2MM0FC123383',
-    price: '$3141.29',
+    price: '3141.29',
     availability: false,
   },
   {
@@ -7958,7 +7958,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2003,
     car_vin: 'YV1902FH2B2639742',
-    price: '$3001.27',
+    price: '3001.27',
     availability: false,
   },
   {
@@ -7968,7 +7968,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 1995,
     car_vin: 'WA1DGAFEXCD910364',
-    price: '$1702.70',
+    price: '1702.70',
     availability: false,
   },
   {
@@ -7978,7 +7978,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2010,
     car_vin: 'WP0AB2A85CU128312',
-    price: '$1914.19',
+    price: '1914.19',
     availability: false,
   },
   {
@@ -7988,7 +7988,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2012,
     car_vin: '2C3CDZAT1FH012780',
-    price: '$3481.86',
+    price: '3481.86',
     availability: false,
   },
   {
@@ -7998,7 +7998,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2001,
     car_vin: '1HGCP2F31CA467885',
-    price: '$1336.47',
+    price: '1336.47',
     availability: true,
   },
   {
@@ -8008,7 +8008,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2011,
     car_vin: '1G6DF5EY1B0863388',
-    price: '$2307.09',
+    price: '2307.09',
     availability: false,
   },
   {
@@ -8018,7 +8018,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1994,
     car_vin: '19XFB2E56DE689608',
-    price: '$3048.71',
+    price: '3048.71',
     availability: true,
   },
   {
@@ -8028,7 +8028,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1996,
     car_vin: '1G6DF5E58C0604436',
-    price: '$1928.12',
+    price: '1928.12',
     availability: true,
   },
   {
@@ -8038,7 +8038,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2003,
     car_vin: 'WAUHFAFL3EN795724',
-    price: '$3012.74',
+    price: '3012.74',
     availability: true,
   },
   {
@@ -8048,7 +8048,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2006,
     car_vin: 'WDDPK5HAXFF124582',
-    price: '$1161.21',
+    price: '1161.21',
     availability: true,
   },
   {
@@ -8058,7 +8058,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2004,
     car_vin: 'WAUDH78E16A404282',
-    price: '$1041.23',
+    price: '1041.23',
     availability: false,
   },
   {
@@ -8068,7 +8068,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2010,
     car_vin: '3GYFNEE36CS862531',
-    price: '$1059.47',
+    price: '1059.47',
     availability: true,
   },
   {
@@ -8078,7 +8078,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2007,
     car_vin: '2G4WD582091947831',
-    price: '$3905.04',
+    price: '3905.04',
     availability: false,
   },
   {
@@ -8088,7 +8088,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2003,
     car_vin: 'KNAGM4AD7E5566546',
-    price: '$1711.09',
+    price: '1711.09',
     availability: false,
   },
   {
@@ -8098,7 +8098,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2001,
     car_vin: 'WA1VMAFE1CD125079',
-    price: '$1986.53',
+    price: '1986.53',
     availability: false,
   },
   {
@@ -8108,7 +8108,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1998,
     car_vin: 'SCBBR9ZA2AC023376',
-    price: '$1114.22',
+    price: '1114.22',
     availability: false,
   },
   {
@@ -8118,7 +8118,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2010,
     car_vin: '1FTFW1E81AK254364',
-    price: '$3453.24',
+    price: '3453.24',
     availability: true,
   },
   {
@@ -8128,7 +8128,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1994,
     car_vin: 'WAUCFAFR6AA793823',
-    price: '$1234.09',
+    price: '1234.09',
     availability: true,
   },
   {
@@ -8138,7 +8138,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1984,
     car_vin: '3GYFNJE3XDS278563',
-    price: '$1939.46',
+    price: '1939.46',
     availability: true,
   },
   {
@@ -8148,7 +8148,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2004,
     car_vin: 'WBADW3C5XBE750792',
-    price: '$3477.44',
+    price: '3477.44',
     availability: true,
   },
   {
@@ -8158,7 +8158,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2011,
     car_vin: 'WBAEA53598C220283',
-    price: '$1909.09',
+    price: '1909.09',
     availability: false,
   },
   {
@@ -8168,7 +8168,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2012,
     car_vin: '3TMJU4GN8CM281581',
-    price: '$1682.19',
+    price: '1682.19',
     availability: false,
   },
   {
@@ -8178,7 +8178,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2008,
     car_vin: '1N6AF0KY0FN857787',
-    price: '$2469.69',
+    price: '2469.69',
     availability: false,
   },
   {
@@ -8188,7 +8188,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2006,
     car_vin: 'WAUJT68E25A003933',
-    price: '$2485.26',
+    price: '2485.26',
     availability: true,
   },
   {
@@ -8198,7 +8198,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2005,
     car_vin: 'JTDKDTB31D1686121',
-    price: '$1136.49',
+    price: '1136.49',
     availability: false,
   },
   {
@@ -8208,7 +8208,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2001,
     car_vin: 'WBAKE5C54DJ939924',
-    price: '$1313.79',
+    price: '1313.79',
     availability: true,
   },
   {
@@ -8218,7 +8218,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2008,
     car_vin: 'JN1AV7AR2FM658807',
-    price: '$3890.17',
+    price: '3890.17',
     availability: true,
   },
   {
@@ -8228,7 +8228,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1994,
     car_vin: 'SCBDR33W57C245137',
-    price: '$3061.31',
+    price: '3061.31',
     availability: false,
   },
   {
@@ -8238,7 +8238,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1993,
     car_vin: 'WAUVT58E34A265731',
-    price: '$1904.85',
+    price: '1904.85',
     availability: true,
   },
   {
@@ -8248,7 +8248,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1990,
     car_vin: '1N6AA0CC8DN906023',
-    price: '$3801.10',
+    price: '3801.10',
     availability: false,
   },
   {
@@ -8258,7 +8258,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2003,
     car_vin: 'SCFBB03B57G617963',
-    price: '$2976.48',
+    price: '2976.48',
     availability: true,
   },
   {
@@ -8268,7 +8268,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1994,
     car_vin: '3C4PDCBB7CT917298',
-    price: '$1102.66',
+    price: '1102.66',
     availability: true,
   },
   {
@@ -8278,7 +8278,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2011,
     car_vin: 'JN8AZ2KR2CT314001',
-    price: '$2730.33',
+    price: '2730.33',
     availability: false,
   },
   {
@@ -8288,7 +8288,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2011,
     car_vin: '1GYEK63N62R051084',
-    price: '$1426.31',
+    price: '1426.31',
     availability: true,
   },
   {
@@ -8298,7 +8298,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2005,
     car_vin: 'WAULT58E53A683312',
-    price: '$3700.10',
+    price: '3700.10',
     availability: true,
   },
   {
@@ -8308,7 +8308,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2010,
     car_vin: '3GTU2YEJ6BG537210',
-    price: '$2840.45',
+    price: '2840.45',
     availability: true,
   },
   {
@@ -8318,7 +8318,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2010,
     car_vin: '1G6AK5SXXE0775339',
-    price: '$2857.99',
+    price: '2857.99',
     availability: false,
   },
   {
@@ -8328,7 +8328,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 1995,
     car_vin: 'SCBFT7ZA0FC058271',
-    price: '$3536.63',
+    price: '3536.63',
     availability: false,
   },
   {
@@ -8338,7 +8338,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2012,
     car_vin: 'WAUGN94F37N088507',
-    price: '$3281.94',
+    price: '3281.94',
     availability: false,
   },
   {
@@ -8348,7 +8348,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2006,
     car_vin: 'WBAEB5C54AC170167',
-    price: '$3536.63',
+    price: '3536.63',
     availability: true,
   },
   {
@@ -8358,7 +8358,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2007,
     car_vin: '3D73M4CL1AG662655',
-    price: '$1435.66',
+    price: '1435.66',
     availability: true,
   },
   {
@@ -8368,7 +8368,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 1996,
     car_vin: '2G4WB52K131061572',
-    price: '$2405.37',
+    price: '2405.37',
     availability: true,
   },
   {
@@ -8378,7 +8378,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 1995,
     car_vin: 'WDDNG7DB8DA760642',
-    price: '$3010.43',
+    price: '3010.43',
     availability: false,
   },
   {
@@ -8388,7 +8388,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2006,
     car_vin: 'WBAYF4C51FG757907',
-    price: '$3129.72',
+    price: '3129.72',
     availability: true,
   },
   {
@@ -8398,7 +8398,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 2005,
     car_vin: '1ZVBP8AM9D5116582',
-    price: '$2431.21',
+    price: '2431.21',
     availability: false,
   },
   {
@@ -8408,7 +8408,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2010,
     car_vin: 'WAUFFAFL2BN693611',
-    price: '$1825.24',
+    price: '1825.24',
     availability: true,
   },
   {
@@ -8418,7 +8418,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2009,
     car_vin: 'JH4DB76601S121812',
-    price: '$2087.51',
+    price: '2087.51',
     availability: false,
   },
   {
@@ -8428,7 +8428,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1990,
     car_vin: 'WBAUP9C50DV728805',
-    price: '$2975.11',
+    price: '2975.11',
     availability: false,
   },
   {
@@ -8438,7 +8438,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 2006,
     car_vin: '1N6AD0CU2EN985559',
-    price: '$1166.75',
+    price: '1166.75',
     availability: true,
   },
   {
@@ -8448,7 +8448,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2009,
     car_vin: 'KNDPB3A29B7673227',
-    price: '$1169.73',
+    price: '1169.73',
     availability: true,
   },
   {
@@ -8458,7 +8458,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1993,
     car_vin: 'WVGAV7AX1FW764144',
-    price: '$3127.86',
+    price: '3127.86',
     availability: false,
   },
   {
@@ -8468,7 +8468,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1985,
     car_vin: '1G6AB5RA0E0086993',
-    price: '$1897.07',
+    price: '1897.07',
     availability: true,
   },
   {
@@ -8478,7 +8478,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 1998,
     car_vin: '1D7RB1GT9BS307509',
-    price: '$1852.29',
+    price: '1852.29',
     availability: false,
   },
   {
@@ -8488,7 +8488,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2009,
     car_vin: '1G4GC5ER2DF036443',
-    price: '$2222.88',
+    price: '2222.88',
     availability: true,
   },
   {
@@ -8498,7 +8498,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2005,
     car_vin: 'WBA1J9C52FV923652',
-    price: '$3503.95',
+    price: '3503.95',
     availability: false,
   },
   {
@@ -8508,7 +8508,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1991,
     car_vin: 'JM1NC2LF0D0031893',
-    price: '$3547.13',
+    price: '3547.13',
     availability: false,
   },
   {
@@ -8518,7 +8518,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 1984,
     car_vin: 'WBALX5C59CC366892',
-    price: '$3283.60',
+    price: '3283.60',
     availability: true,
   },
   {
@@ -8528,7 +8528,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 1967,
     car_vin: '5GADX23L36D465616',
-    price: '$1903.98',
+    price: '1903.98',
     availability: false,
   },
   {
@@ -8538,7 +8538,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 1990,
     car_vin: 'JTEBC3EH5D2635401',
-    price: '$1700.67',
+    price: '1700.67',
     availability: false,
   },
   {
@@ -8548,7 +8548,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1996,
     car_vin: 'SCBFT7ZA2FC445324',
-    price: '$1464.34',
+    price: '1464.34',
     availability: false,
   },
   {
@@ -8558,7 +8558,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2004,
     car_vin: '5NPE24AF6FH271649',
-    price: '$2744.03',
+    price: '2744.03',
     availability: false,
   },
   {
@@ -8568,7 +8568,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2004,
     car_vin: 'WBAUC9C56CV594425',
-    price: '$1305.00',
+    price: '1305.00',
     availability: false,
   },
   {
@@ -8578,7 +8578,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2005,
     car_vin: 'JN1AJ0HP0AM831904',
-    price: '$2566.24',
+    price: '2566.24',
     availability: false,
   },
   {
@@ -8588,7 +8588,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 2004,
     car_vin: 'WBAFA53521L845943',
-    price: '$1146.56',
+    price: '1146.56',
     availability: true,
   },
   {
@@ -8598,7 +8598,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 1983,
     car_vin: 'WAUWKAFR1AA147288',
-    price: '$1236.78',
+    price: '1236.78',
     availability: true,
   },
   {
@@ -8608,7 +8608,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1992,
     car_vin: 'WUATNAFG4BN364021',
-    price: '$1805.31',
+    price: '1805.31',
     availability: false,
   },
   {
@@ -8618,7 +8618,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2001,
     car_vin: 'WAU4FAFR8BA666691',
-    price: '$3637.99',
+    price: '3637.99',
     availability: false,
   },
   {
@@ -8628,7 +8628,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2012,
     car_vin: '3FA6P0PUXFR625180',
-    price: '$2182.78',
+    price: '2182.78',
     availability: true,
   },
   {
@@ -8638,7 +8638,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2006,
     car_vin: '1FMCU9D77AK360300',
-    price: '$3118.40',
+    price: '3118.40',
     availability: false,
   },
   {
@@ -8648,7 +8648,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1993,
     car_vin: 'WAUXL68E54A350813',
-    price: '$2455.62',
+    price: '2455.62',
     availability: true,
   },
   {
@@ -8658,7 +8658,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2003,
     car_vin: '1LNHL9DR2CG268370',
-    price: '$2121.17',
+    price: '2121.17',
     availability: false,
   },
   {
@@ -8668,7 +8668,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 1992,
     car_vin: 'WBA3B5C54FP294396',
-    price: '$2937.32',
+    price: '2937.32',
     availability: false,
   },
   {
@@ -8678,7 +8678,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 1988,
     car_vin: '3C6JD6EP1CG069207',
-    price: '$2409.83',
+    price: '2409.83',
     availability: false,
   },
   {
@@ -8688,7 +8688,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1992,
     car_vin: 'WAU2GBFC9EN799608',
-    price: '$2018.62',
+    price: '2018.62',
     availability: true,
   },
   {
@@ -8698,7 +8698,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2004,
     car_vin: 'WA1CMAFP4FA707935',
-    price: '$1018.10',
+    price: '1018.10',
     availability: false,
   },
   {
@@ -8708,7 +8708,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2010,
     car_vin: 'JTEBC3EH7C2137392',
-    price: '$1971.62',
+    price: '1971.62',
     availability: true,
   },
   {
@@ -8718,7 +8718,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1995,
     car_vin: 'JN1CV6EK3FM134923',
-    price: '$1332.95',
+    price: '1332.95',
     availability: true,
   },
   {
@@ -8728,7 +8728,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1991,
     car_vin: '2HNYD18726H068247',
-    price: '$2222.99',
+    price: '2222.99',
     availability: true,
   },
   {
@@ -8738,7 +8738,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1999,
     car_vin: '1C3CCBAB1CN281933',
-    price: '$2342.35',
+    price: '2342.35',
     availability: true,
   },
   {
@@ -8748,7 +8748,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2002,
     car_vin: '1J4PN2GKXAW378502',
-    price: '$1891.14',
+    price: '1891.14',
     availability: false,
   },
   {
@@ -8758,7 +8758,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 1993,
     car_vin: 'JN1CV6AP9CM742622',
-    price: '$1658.78',
+    price: '1658.78',
     availability: false,
   },
   {
@@ -8768,7 +8768,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1993,
     car_vin: '1FMCU9C7XAK662441',
-    price: '$1203.82',
+    price: '1203.82',
     availability: true,
   },
   {
@@ -8778,7 +8778,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1991,
     car_vin: 'WBAKG1C5XCJ684889',
-    price: '$1974.61',
+    price: '1974.61',
     availability: false,
   },
   {
@@ -8788,7 +8788,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 2005,
     car_vin: '1FADP5AU0EL418081',
-    price: '$3565.44',
+    price: '3565.44',
     availability: false,
   },
   {
@@ -8798,7 +8798,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1997,
     car_vin: 'WA1VGAFP9EA727905',
-    price: '$2700.95',
+    price: '2700.95',
     availability: true,
   },
   {
@@ -8808,7 +8808,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2008,
     car_vin: 'WA1EY94L99D746437',
-    price: '$3788.17',
+    price: '3788.17',
     availability: false,
   },
   {
@@ -8818,7 +8818,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2009,
     car_vin: '1D7RB1CP6AS204927',
-    price: '$1251.06',
+    price: '1251.06',
     availability: false,
   },
   {
@@ -8828,7 +8828,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2012,
     car_vin: 'WAUAH74F47N572154',
-    price: '$2463.86',
+    price: '2463.86',
     availability: true,
   },
   {
@@ -8838,7 +8838,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1966,
     car_vin: '1GYFK33259R097654',
-    price: '$2885.35',
+    price: '2885.35',
     availability: false,
   },
   {
@@ -8848,7 +8848,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2010,
     car_vin: '5J6TF2H55DL942101',
-    price: '$2302.00',
+    price: '2302.00',
     availability: false,
   },
   {
@@ -8858,7 +8858,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2010,
     car_vin: 'JA32U2FU0EU234334',
-    price: '$2901.94',
+    price: '2901.94',
     availability: true,
   },
   {
@@ -8868,7 +8868,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2005,
     car_vin: 'SCFAB02E19G325527',
-    price: '$3856.75',
+    price: '3856.75',
     availability: false,
   },
   {
@@ -8878,7 +8878,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2012,
     car_vin: '1G6DE8E56D0034619',
-    price: '$2910.55',
+    price: '2910.55',
     availability: true,
   },
   {
@@ -8888,7 +8888,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1999,
     car_vin: '5N1AN0NW5EN719768',
-    price: '$2152.15',
+    price: '2152.15',
     availability: true,
   },
   {
@@ -8898,7 +8898,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1994,
     car_vin: '3N1CE2CP5EL383577',
-    price: '$3922.48',
+    price: '3922.48',
     availability: false,
   },
   {
@@ -8908,7 +8908,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1999,
     car_vin: '19UUA65654A923901',
-    price: '$1188.88',
+    price: '1188.88',
     availability: false,
   },
   {
@@ -8918,7 +8918,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2007,
     car_vin: '1C3CDFCB4FD121718',
-    price: '$2942.57',
+    price: '2942.57',
     availability: true,
   },
   {
@@ -8928,7 +8928,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 2005,
     car_vin: 'JTHBE1BL9D5754416',
-    price: '$1129.35',
+    price: '1129.35',
     availability: true,
   },
   {
@@ -8938,7 +8938,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2008,
     car_vin: '1G6DF577890437521',
-    price: '$2101.33',
+    price: '2101.33',
     availability: true,
   },
   {
@@ -8948,7 +8948,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2011,
     car_vin: '1GKLRKED1AJ601055',
-    price: '$1311.71',
+    price: '1311.71',
     availability: true,
   },
   {
@@ -8958,7 +8958,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2000,
     car_vin: '1N6AF0KX2FN783117',
-    price: '$1661.77',
+    price: '1661.77',
     availability: false,
   },
   {
@@ -8968,7 +8968,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 1987,
     car_vin: '3D4PG9FVXAT699890',
-    price: '$2287.91',
+    price: '2287.91',
     availability: true,
   },
   {
@@ -8978,7 +8978,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 2002,
     car_vin: 'JH4KA96631C317341',
-    price: '$2424.10',
+    price: '2424.10',
     availability: true,
   },
   {
@@ -8988,7 +8988,7 @@ const productData: Product[] = [
     car_color: 'Blue',
     car_model_year: 2005,
     car_vin: 'WAUR4AFD3CN691508',
-    price: '$3311.23',
+    price: '3311.23',
     availability: false,
   },
   {
@@ -8998,7 +8998,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1997,
     car_vin: '3GTXKYEJ0AG028256',
-    price: '$1155.06',
+    price: '1155.06',
     availability: false,
   },
   {
@@ -9008,7 +9008,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1998,
     car_vin: '19UUA65574A837125',
-    price: '$3840.19',
+    price: '3840.19',
     availability: true,
   },
   {
@@ -9018,7 +9018,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2007,
     car_vin: '2T1BPRHE1FC744312',
-    price: '$3680.35',
+    price: '3680.35',
     availability: false,
   },
   {
@@ -9028,7 +9028,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1998,
     car_vin: 'TRUSC28N311223730',
-    price: '$2348.00',
+    price: '2348.00',
     availability: true,
   },
   {
@@ -9038,7 +9038,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2004,
     car_vin: '1G6AY5S34F0656621',
-    price: '$3011.96',
+    price: '3011.96',
     availability: true,
   },
   {
@@ -9048,7 +9048,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2001,
     car_vin: '1NXBU4EE5AZ830391',
-    price: '$2321.34',
+    price: '2321.34',
     availability: false,
   },
   {
@@ -9058,7 +9058,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 1994,
     car_vin: 'WBAYA6C52DD446267',
-    price: '$2792.84',
+    price: '2792.84',
     availability: false,
   },
   {
@@ -9068,7 +9068,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 1986,
     car_vin: 'SCFEBBAK7EG958810',
-    price: '$2685.09',
+    price: '2685.09',
     availability: true,
   },
   {
@@ -9078,7 +9078,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2009,
     car_vin: 'WAUA2AFD4EN948231',
-    price: '$3484.20',
+    price: '3484.20',
     availability: true,
   },
   {
@@ -9088,7 +9088,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1995,
     car_vin: 'JTDKN3DU4A0386562',
-    price: '$2218.77',
+    price: '2218.77',
     availability: true,
   },
   {
@@ -9098,7 +9098,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1999,
     car_vin: 'SCFFDECN1CG031614',
-    price: '$3470.87',
+    price: '3470.87',
     availability: true,
   },
   {
@@ -9108,7 +9108,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1998,
     car_vin: 'WAUUL68E35A358249',
-    price: '$2735.49',
+    price: '2735.49',
     availability: false,
   },
   {
@@ -9118,7 +9118,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2012,
     car_vin: 'WAUVC68E33A754506',
-    price: '$1735.92',
+    price: '1735.92',
     availability: false,
   },
   {
@@ -9128,7 +9128,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2002,
     car_vin: '3C4PDCAB0FT454880',
-    price: '$2568.77',
+    price: '2568.77',
     availability: false,
   },
   {
@@ -9138,7 +9138,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2006,
     car_vin: '3N1AB7AP3FL758187',
-    price: '$1291.90',
+    price: '1291.90',
     availability: false,
   },
   {
@@ -9148,7 +9148,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2006,
     car_vin: 'JN8AF5MR1DT346897',
-    price: '$2937.02',
+    price: '2937.02',
     availability: true,
   },
   {
@@ -9158,7 +9158,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2001,
     car_vin: 'WBA3B9C54FJ688720',
-    price: '$2348.74',
+    price: '2348.74',
     availability: true,
   },
   {
@@ -9168,7 +9168,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1998,
     car_vin: 'WA1YD54BX5N656906',
-    price: '$1590.81',
+    price: '1590.81',
     availability: false,
   },
   {
@@ -9178,7 +9178,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2012,
     car_vin: 'JTMHY7AJ8A4253492',
-    price: '$1046.00',
+    price: '1046.00',
     availability: false,
   },
   {
@@ -9188,7 +9188,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1999,
     car_vin: 'WAUWGBFB7BN825059',
-    price: '$1433.54',
+    price: '1433.54',
     availability: false,
   },
   {
@@ -9198,7 +9198,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 1993,
     car_vin: '3VW1K7AJ4FM703859',
-    price: '$2233.38',
+    price: '2233.38',
     availability: false,
   },
   {
@@ -9208,7 +9208,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2011,
     car_vin: 'WAUFFAFL8FN776837',
-    price: '$2173.28',
+    price: '2173.28',
     availability: true,
   },
   {
@@ -9218,7 +9218,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2006,
     car_vin: '2LMHJ5AT8EB133200',
-    price: '$1980.39',
+    price: '1980.39',
     availability: true,
   },
   {
@@ -9228,7 +9228,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 2010,
     car_vin: '5UXFG2C54BL719406',
-    price: '$1415.93',
+    price: '1415.93',
     availability: true,
   },
   {
@@ -9238,7 +9238,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2006,
     car_vin: 'JTEBU5JR5D5621911',
-    price: '$1242.49',
+    price: '1242.49',
     availability: false,
   },
   {
@@ -9248,7 +9248,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1998,
     car_vin: '3C4PDCAB6FT646451',
-    price: '$1676.38',
+    price: '1676.38',
     availability: false,
   },
   {
@@ -9258,7 +9258,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2006,
     car_vin: '1FMJK1H59EE104008',
-    price: '$3254.61',
+    price: '3254.61',
     availability: true,
   },
   {
@@ -9268,7 +9268,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2009,
     car_vin: 'WAUGL78E38A977084',
-    price: '$3285.80',
+    price: '3285.80',
     availability: false,
   },
   {
@@ -9278,7 +9278,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1992,
     car_vin: 'WBANV93549C755860',
-    price: '$1252.41',
+    price: '1252.41',
     availability: true,
   },
   {
@@ -9288,7 +9288,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1993,
     car_vin: 'WBALL5C53EJ231420',
-    price: '$1805.89',
+    price: '1805.89',
     availability: true,
   },
   {
@@ -9298,7 +9298,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1983,
     car_vin: 'JN1AZ4EH1FM695416',
-    price: '$3777.23',
+    price: '3777.23',
     availability: false,
   },
   {
@@ -9308,7 +9308,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1988,
     car_vin: 'WA1LMAFE4CD099987',
-    price: '$1123.48',
+    price: '1123.48',
     availability: false,
   },
   {
@@ -9318,7 +9318,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1992,
     car_vin: 'WBA3C1C52FK879786',
-    price: '$2964.48',
+    price: '2964.48',
     availability: true,
   },
   {
@@ -9328,7 +9328,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2011,
     car_vin: 'KM8JT3AF6EU792909',
-    price: '$3821.55',
+    price: '3821.55',
     availability: false,
   },
   {
@@ -9338,7 +9338,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 1999,
     car_vin: 'WAUAF98E15A083783',
-    price: '$3757.10',
+    price: '3757.10',
     availability: true,
   },
   {
@@ -9348,7 +9348,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 2012,
     car_vin: 'WA1AV74LX7D896226',
-    price: '$3584.35',
+    price: '3584.35',
     availability: true,
   },
   {
@@ -9358,7 +9358,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2006,
     car_vin: '2D4RN6DX1AR379605',
-    price: '$3173.39',
+    price: '3173.39',
     availability: true,
   },
   {
@@ -9368,7 +9368,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1989,
     car_vin: '3FAHP0CG8BR833495',
-    price: '$1359.92',
+    price: '1359.92',
     availability: false,
   },
   {
@@ -9378,7 +9378,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2002,
     car_vin: '1N6AA0CH9FN915859',
-    price: '$2434.30',
+    price: '2434.30',
     availability: false,
   },
   {
@@ -9388,7 +9388,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2011,
     car_vin: 'WAUMFAFL9AA204974',
-    price: '$1644.86',
+    price: '1644.86',
     availability: false,
   },
   {
@@ -9398,7 +9398,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2005,
     car_vin: '1FTSW2A50AE263961',
-    price: '$3561.78',
+    price: '3561.78',
     availability: true,
   },
   {
@@ -9408,7 +9408,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1987,
     car_vin: 'WAUHGAFC5CN048121',
-    price: '$1524.14',
+    price: '1524.14',
     availability: true,
   },
   {
@@ -9418,7 +9418,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 2000,
     car_vin: '1GYFK23209R168382',
-    price: '$3342.80',
+    price: '3342.80',
     availability: false,
   },
   {
@@ -9428,7 +9428,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 1997,
     car_vin: '4JGDA2EB1CA997041',
-    price: '$3214.55',
+    price: '3214.55',
     availability: true,
   },
   {
@@ -9438,7 +9438,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 1989,
     car_vin: 'JH4DC53855S727815',
-    price: '$3509.40',
+    price: '3509.40',
     availability: false,
   },
   {
@@ -9448,7 +9448,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2010,
     car_vin: 'NM0GE9F75F1626166',
-    price: '$2835.40',
+    price: '2835.40',
     availability: true,
   },
   {
@@ -9458,7 +9458,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1991,
     car_vin: 'SCBLC47J28C606309',
-    price: '$3059.05',
+    price: '3059.05',
     availability: false,
   },
   {
@@ -9468,7 +9468,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2000,
     car_vin: '2C3CCARG6EH952714',
-    price: '$3521.51',
+    price: '3521.51',
     availability: true,
   },
   {
@@ -9478,7 +9478,7 @@ const productData: Product[] = [
     car_color: 'Green',
     car_model_year: 1994,
     car_vin: 'KMHTC6AD5DU366135',
-    price: '$1800.44',
+    price: '1800.44',
     availability: false,
   },
   {
@@ -9488,7 +9488,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2013,
     car_vin: 'JN1CV6AP5AM186418',
-    price: '$1423.02',
+    price: '1423.02',
     availability: true,
   },
   {
@@ -9498,7 +9498,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2004,
     car_vin: 'WBASN4C50BC573407',
-    price: '$2329.20',
+    price: '2329.20',
     availability: false,
   },
   {
@@ -9508,7 +9508,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2009,
     car_vin: '4T1BF3EK9AU004816',
-    price: '$1999.50',
+    price: '1999.50',
     availability: true,
   },
   {
@@ -9518,7 +9518,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1995,
     car_vin: 'KL4CJGSB1DB592756',
-    price: '$1974.97',
+    price: '1974.97',
     availability: false,
   },
   {
@@ -9528,7 +9528,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1997,
     car_vin: 'WAUGU44D03N015884',
-    price: '$2025.98',
+    price: '2025.98',
     availability: false,
   },
   {
@@ -9538,7 +9538,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2006,
     car_vin: '1FTWF3A57AE007596',
-    price: '$1749.03',
+    price: '1749.03',
     availability: false,
   },
   {
@@ -9548,7 +9548,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 1988,
     car_vin: '1GTN1TEX7CZ169958',
-    price: '$2555.46',
+    price: '2555.46',
     availability: true,
   },
   {
@@ -9558,7 +9558,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 2007,
     car_vin: '5NPDH4AE9BH956675',
-    price: '$1987.90',
+    price: '1987.90',
     availability: true,
   },
   {
@@ -9568,7 +9568,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 2009,
     car_vin: 'YV4960BZ7A1041249',
-    price: '$3299.41',
+    price: '3299.41',
     availability: true,
   },
   {
@@ -9578,7 +9578,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2004,
     car_vin: '2V4RW3D17AR344433',
-    price: '$1889.43',
+    price: '1889.43',
     availability: false,
   },
   {
@@ -9588,7 +9588,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 2004,
     car_vin: '1N6AF0KY5FN430587',
-    price: '$3314.47',
+    price: '3314.47',
     availability: false,
   },
   {
@@ -9598,7 +9598,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 2002,
     car_vin: '3GYFNEE31FS219315',
-    price: '$2074.45',
+    price: '2074.45',
     availability: false,
   },
   {
@@ -9608,7 +9608,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 1999,
     car_vin: 'WA1LFAFP4FA399742',
-    price: '$3671.95',
+    price: '3671.95',
     availability: true,
   },
   {
@@ -9618,7 +9618,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 1997,
     car_vin: 'JTDJTUD38ED373553',
-    price: '$1001.58',
+    price: '1001.58',
     availability: true,
   },
   {
@@ -9628,7 +9628,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2005,
     car_vin: '1D4RE3GGXBC377422',
-    price: '$3253.90',
+    price: '3253.90',
     availability: true,
   },
   {
@@ -9638,7 +9638,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2009,
     car_vin: '1G4PP5SK8D4253678',
-    price: '$1512.65',
+    price: '1512.65',
     availability: false,
   },
   {
@@ -9648,7 +9648,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2008,
     car_vin: '2B3CA7CW4AH121387',
-    price: '$2846.09',
+    price: '2846.09',
     availability: false,
   },
   {
@@ -9658,7 +9658,7 @@ const productData: Product[] = [
     car_color: 'Pink',
     car_model_year: 1998,
     car_vin: 'WAUDGAFL8BA816307',
-    price: '$1316.06',
+    price: '1316.06',
     availability: false,
   },
   {
@@ -9668,7 +9668,7 @@ const productData: Product[] = [
     car_color: 'Maroon',
     car_model_year: 1994,
     car_vin: '5TDDCRFH5ES711465',
-    price: '$3645.01',
+    price: '3645.01',
     availability: true,
   },
   {
@@ -9678,7 +9678,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 1999,
     car_vin: 'WBALZ5C59CD572458',
-    price: '$1643.21',
+    price: '1643.21',
     availability: true,
   },
   {
@@ -9688,7 +9688,7 @@ const productData: Product[] = [
     car_color: 'Mauv',
     car_model_year: 2001,
     car_vin: '1D7RE2BK3BS203545',
-    price: '$1478.97',
+    price: '1478.97',
     availability: false,
   },
   {
@@ -9698,7 +9698,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2009,
     car_vin: 'WDDEJ7EB4DA132500',
-    price: '$1707.09',
+    price: '1707.09',
     availability: true,
   },
   {
@@ -9708,7 +9708,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 1998,
     car_vin: 'WA1EY74L77D944127',
-    price: '$3434.11',
+    price: '3434.11',
     availability: true,
   },
   {
@@ -9718,7 +9718,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2011,
     car_vin: '1D4PU4GKXBW052739',
-    price: '$2324.33',
+    price: '2324.33',
     availability: false,
   },
   {
@@ -9728,7 +9728,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 1989,
     car_vin: 'SCBBB7ZH6EC293044',
-    price: '$3645.99',
+    price: '3645.99',
     availability: true,
   },
   {
@@ -9738,7 +9738,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2007,
     car_vin: 'WVWGU7AN3CE713472',
-    price: '$3061.38',
+    price: '3061.38',
     availability: true,
   },
   {
@@ -9748,7 +9748,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1984,
     car_vin: 'WAUNE78P08A281561',
-    price: '$3198.06',
+    price: '3198.06',
     availability: true,
   },
   {
@@ -9758,7 +9758,7 @@ const productData: Product[] = [
     car_color: 'Fuscia',
     car_model_year: 1994,
     car_vin: '3C4PDDEG0FT916611',
-    price: '$1112.25',
+    price: '1112.25',
     availability: false,
   },
   {
@@ -9768,7 +9768,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2008,
     car_vin: '1FTSX2A50AE686827',
-    price: '$3760.36',
+    price: '3760.36',
     availability: false,
   },
   {
@@ -9778,7 +9778,7 @@ const productData: Product[] = [
     car_color: 'Khaki',
     car_model_year: 2004,
     car_vin: '3GYFK62887G547222',
-    price: '$2502.49',
+    price: '2502.49',
     availability: true,
   },
   {
@@ -9788,7 +9788,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2005,
     car_vin: '1N6AA0CJ1FN094761',
-    price: '$2151.43',
+    price: '2151.43',
     availability: true,
   },
   {
@@ -9798,7 +9798,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2010,
     car_vin: '19UUA56791A265206',
-    price: '$1337.15',
+    price: '1337.15',
     availability: true,
   },
   {
@@ -9808,7 +9808,7 @@ const productData: Product[] = [
     car_color: 'Puce',
     car_model_year: 2004,
     car_vin: '2C3CDZAT0FH188588',
-    price: '$2563.75',
+    price: '2563.75',
     availability: false,
   },
   {
@@ -9818,7 +9818,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 2010,
     car_vin: '1C4RDHEG8FC258368',
-    price: '$1962.26',
+    price: '1962.26',
     availability: false,
   },
   {
@@ -9828,7 +9828,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2005,
     car_vin: 'WAUHF68PX6A490971',
-    price: '$2120.15',
+    price: '2120.15',
     availability: true,
   },
   {
@@ -9838,7 +9838,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 1997,
     car_vin: '1FTSX2B54AE667129',
-    price: '$1993.32',
+    price: '1993.32',
     availability: false,
   },
   {
@@ -9848,7 +9848,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2000,
     car_vin: 'YV1672MC3CJ257412',
-    price: '$3471.84',
+    price: '3471.84',
     availability: true,
   },
   {
@@ -9858,7 +9858,7 @@ const productData: Product[] = [
     car_color: 'Indigo',
     car_model_year: 2001,
     car_vin: '2C3CDXCT3DH967580',
-    price: '$3216.39',
+    price: '3216.39',
     availability: false,
   },
   {
@@ -9868,7 +9868,7 @@ const productData: Product[] = [
     car_color: 'Purple',
     car_model_year: 1993,
     car_vin: '3C4PDDDG7ET414064',
-    price: '$1780.66',
+    price: '1780.66',
     availability: false,
   },
   {
@@ -9878,7 +9878,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 2004,
     car_vin: 'WBABD334X4J987491',
-    price: '$3387.09',
+    price: '3387.09',
     availability: false,
   },
   {
@@ -9888,7 +9888,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1992,
     car_vin: 'WAUDF68E75A810016',
-    price: '$3018.00',
+    price: '3018.00',
     availability: true,
   },
   {
@@ -9898,7 +9898,7 @@ const productData: Product[] = [
     car_color: 'Orange',
     car_model_year: 2004,
     car_vin: '2HNYD186X3H621925',
-    price: '$1176.86',
+    price: '1176.86',
     availability: true,
   },
   {
@@ -9908,7 +9908,7 @@ const productData: Product[] = [
     car_color: 'Yellow',
     car_model_year: 2001,
     car_vin: 'KMHFC4DD8BA020625',
-    price: '$2578.06',
+    price: '2578.06',
     availability: true,
   },
   {
@@ -9918,7 +9918,7 @@ const productData: Product[] = [
     car_color: 'Crimson',
     car_model_year: 2006,
     car_vin: '19UYA41653A120872',
-    price: '$1371.97',
+    price: '1371.97',
     availability: true,
   },
   {
@@ -9928,7 +9928,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 1996,
     car_vin: 'ZFF75VFA5F0691453',
-    price: '$3995.06',
+    price: '3995.06',
     availability: true,
   },
   {
@@ -9938,7 +9938,7 @@ const productData: Product[] = [
     car_color: 'Goldenrod',
     car_model_year: 2001,
     car_vin: 'KMHEC4A4XEA183720',
-    price: '$1694.07',
+    price: '1694.07',
     availability: false,
   },
   {
@@ -9948,7 +9948,7 @@ const productData: Product[] = [
     car_color: 'Turquoise',
     car_model_year: 2011,
     car_vin: 'WA1C8BFP1DA626804',
-    price: '$2385.76',
+    price: '2385.76',
     availability: false,
   },
   {
@@ -9958,7 +9958,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 2003,
     car_vin: '2G4WS55JX41278011',
-    price: '$3865.18',
+    price: '3865.18',
     availability: false,
   },
   {
@@ -9968,7 +9968,7 @@ const productData: Product[] = [
     car_color: 'Red',
     car_model_year: 1999,
     car_vin: '1G4HP52K73U054110',
-    price: '$2324.73',
+    price: '2324.73',
     availability: true,
   },
   {
@@ -9978,7 +9978,7 @@ const productData: Product[] = [
     car_color: 'Teal',
     car_model_year: 1996,
     car_vin: 'JM1CW2BL1E0219362',
-    price: '$2770.82',
+    price: '2770.82',
     availability: false,
   },
   {
@@ -9988,7 +9988,7 @@ const productData: Product[] = [
     car_color: 'Aquamarine',
     car_model_year: 2007,
     car_vin: 'KNDMG4C79C6816543',
-    price: '$1766.14',
+    price: '1766.14',
     availability: false,
   },
   {
@@ -9998,7 +9998,7 @@ const productData: Product[] = [
     car_color: 'Violet',
     car_model_year: 1997,
     car_vin: 'WAUEF98E87A698075',
-    price: '$2147.22',
+    price: '2147.22',
     availability: false,
   },
 ];
