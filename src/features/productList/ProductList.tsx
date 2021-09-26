@@ -5,6 +5,19 @@ import ProductCard from '../productCard/productCard';
 import { fetchAsync, selectProducts } from './productListSlice';
 import styles from './ProductList.module.css';
 
+function arrangeIntoRows(products: Product[]): Product[][] {
+  const itemsPerRow = 4;
+  return products.reduce((accumulator: Product[][], current: Product, currentIndex: number) => {
+    if (currentIndex % itemsPerRow === 0) {
+      accumulator.push([current]);
+    } else {
+      const lastItemIndex = accumulator.length ? accumulator.length - 1 : 0;
+      accumulator[lastItemIndex].push(current);
+    }
+    return accumulator;
+  }, []);
+}
+
 const ProductList: FC<any> = () => {
   const dispatch = useAppDispatch();
   const productState = useAppSelector(selectProducts);
@@ -15,8 +28,12 @@ const ProductList: FC<any> = () => {
 
   return (
     <div className={styles.list}>
-      {productState.value.map((product: Product) => (
-        <ProductCard product={product} key={product.id} />
+      {arrangeIntoRows(productState.value).map((productRow: Product[]) => (
+        <div className={styles['product-row']}>
+          {productRow.map((product: Product) => (
+            <ProductCard product={product} key={product.id} />
+          ))}
+        </div>
       ))}
     </div>
   );

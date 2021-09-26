@@ -1,4 +1,11 @@
-.list{
-    background-color: red;
-    display: flex;
+.list {
+  display: flex;
+  flex-direction: column;
+}
+
+.product-row {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 30px;
+  justify-content: space-evenly;
 }
