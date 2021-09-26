@@ -1,5 +1,5 @@
+import { Product } from '../../shared/types';
 import productData from './productData';
-import { Product } from './types';
 
 export function fetchAllProducts() {
   return new Promise<{ data: Product[] }>((resolve) =>
