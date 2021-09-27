@@ -1,19 +1,10 @@
 import { createAsyncThunk, createSlice, PayloadAction } from '@reduxjs/toolkit';
 import { RootState } from '../../app/store';
 import { getMetadata } from './filterApi';
-
-interface FilterState {
-  value: {
-    selectedColors: string[];
-    selectedBrands: string[];
-    allColors: string[];
-    allBrands: string[];
-  };
-  status: 'idle' | 'loading' | 'failed';
-}
+import { BrandState, ColorState, FilterState } from './types';
 
 const initialState: FilterState = {
-  value: { selectedBrands: [], selectedColors: [], allColors: [], allBrands: [] },
+  value: { colors: [], brands: [] },
   status: 'idle',
 };
 
@@ -22,15 +13,19 @@ export const getAllMetadataThunk = createAsyncThunk('filter/getMetadata', async 
   return response.data;
 });
 
-const filterSlice = createSlice({
+export const filterSlice = createSlice({
   name: 'filter',
   initialState,
   reducers: {
-    setColors: (state, action: PayloadAction<string[]>) => {
-      state.value.selectedColors = action.payload;
+    setColors: (state, action: PayloadAction<string>) => {
+      state.value.colors = state.value.colors.map((color: ColorState) =>
+        color.name === action.payload ? { ...color, isChecked: !color.isChecked } : color,
+      );
     },
-    setBrands: (state, action: PayloadAction<string[]>) => {
-      state.value.selectedBrands = action.payload;
+    setBrands: (state, action: PayloadAction<string>) => {
+      state.value.brands = state.value.brands.map((brand: BrandState) =>
+        brand.name === action.payload ? { ...brand, isChecked: !brand.isChecked } : brand,
+      );
     },
   },
   extraReducers: (builder) => {
@@ -41,12 +36,19 @@ const filterSlice = createSlice({
       .addCase(getAllMetadataThunk.fulfilled, (state, action) => {
         state.status = 'idle';
         const { allBrands, allColors } = action.payload;
-        state.value.allBrands = allBrands;
-        state.value.allColors = allColors;
+        state.value.brands = allBrands.map((brandName: string) => ({
+          name: brandName,
+          isChecked: false,
+        }));
+        state.value.colors = allColors.map((colorName: string) => ({
+          name: colorName,
+          isChecked: false,
+        }));
       });
   },
 });
 
+export const { setColors, setBrands } = filterSlice.actions;
 export const selectFilters = (state: RootState) => state.filter;
 
 export default filterSlice.reducer;
