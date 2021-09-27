@@ -29,7 +29,7 @@ const ProductList: FC<{}> = () => {
   return (
     <div className={styles.list}>
       {arrangeIntoRows(productState.value).map((productRow: Product[]) => (
-        <div className={styles['product-row']}>
+        <div className={styles['product-row']} key={'row-' + productRow[0].id}>
           {productRow.map((product: Product) => (
             <ProductCard product={product} key={product.id} />
           ))}
