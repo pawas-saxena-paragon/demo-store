@@ -18,7 +18,7 @@ function arrangeIntoRows(products: Product[]): Product[][] {
   }, []);
 }
 
-const ProductList: FC<any> = () => {
+const ProductList: FC<{}> = () => {
   const dispatch = useAppDispatch();
   const productState = useAppSelector(selectProducts);
 
