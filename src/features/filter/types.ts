@@ -1,5 +1,5 @@
 export type ColorState = { name: string; isChecked: boolean };
-export type BrandState = ColorState;
+export type BrandState = { name: string; isChecked: boolean };
 export interface FilterState {
   value: {
     colors: ColorState[];

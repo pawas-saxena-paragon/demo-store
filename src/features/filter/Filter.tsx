@@ -12,7 +12,7 @@ const Filter: FC<{}> = () => {
   useEffect(() => {
     dispatch(getAllMetadataThunk());
   }, []);
-
+  
   return (
     <div className={styles['filter-sidebar']}>
       <h2>Colors</h2>

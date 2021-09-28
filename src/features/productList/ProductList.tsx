@@ -4,6 +4,7 @@ import { Product } from '../../shared/types';
 import ProductCard from '../productCard/productCard';
 import { fetchAsync, selectProducts } from './productListSlice';
 import styles from './ProductList.module.css';
+import { selectFilters } from '../filter/filterSlice';
 
 function arrangeIntoRows(products: Product[]): Product[][] {
   const itemsPerRow = 4;
@@ -21,10 +22,13 @@ function arrangeIntoRows(products: Product[]): Product[][] {
 const ProductList: FC<{}> = () => {
   const dispatch = useAppDispatch();
   const productState = useAppSelector(selectProducts);
+  const filterState = useAppSelector(selectFilters);
+
 
   useEffect(() => {
-    dispatch(fetchAsync());
-  }, []);
+    dispatch(fetchAsync(filterState));
+  }, [filterState.value]);
+
 
   return (
     <div className={styles.list}>
