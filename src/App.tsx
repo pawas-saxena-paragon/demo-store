@@ -6,6 +6,7 @@ import Nav from 'react-bootstrap/Nav';
 
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 import Cart from './features/cart/Cart';
+import Checkout from './features/checkout/Checkout';
 
 function App() {
   return (
@@ -24,7 +25,7 @@ function App() {
 
         <Switch>
           <Route path="/checkout">
-            <Cart />
+            <Checkout />
           </Route>
           <Route path="/">
             <>
