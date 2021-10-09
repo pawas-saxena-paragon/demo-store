@@ -3,12 +3,19 @@ import { Product } from '../../shared/types';
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 import styles from './ProductCard.module.css';
+import { useAppDispatch } from '../../app/hooks';
+import * as cartSlice from '../cart/ cartSlice';
 
 type ProductCardProp = {
   product: Product;
 };
 
 const ProductCard: FC<ProductCardProp> = ({ product }: ProductCardProp) => {
+  const dispatch = useAppDispatch();
+  const addToCart = (product: Product) => {
+    dispatch(cartSlice.addToCart(product));
+  };
+
   return (
     <div>
       <Card style={{ width: '18rem' }}>
@@ -21,7 +28,14 @@ const ProductCard: FC<ProductCardProp> = ({ product }: ProductCardProp) => {
             <div>Color: {product.car_color}</div>
             <div>Price: ${product.price}</div>
           </div>
-          <Button variant="primary">Buy Now</Button>
+          <Button
+            variant="primary"
+            onClick={() => {
+              addToCart(product);
+            }}
+          >
+            Add to Cart
+          </Button>
         </Card.Body>
       </Card>
     </div>
