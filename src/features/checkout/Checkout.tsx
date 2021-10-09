@@ -7,7 +7,8 @@ import styles from './checkout.module.css';
 import { useSelector } from 'react-redux';
 import { selectCart } from '../cart/ cartSlice';
 import { Product } from '../../shared/types';
-
+import { checkoutApiCallThunk } from './checkoutSlice';
+import { useAppDispatch } from '../../app/hooks';
 type CheckoutFormDetails = {
   email: string;
   name: string;
@@ -47,6 +48,7 @@ const SingleProductForCheckout: React.FC<{ product: Product }> = ({ product }) =
 
 const Checkout: React.FC<{}> = ({}) => {
   const { cartProducts } = useSelector(selectCart);
+  const dispatch = useAppDispatch();
 
   const [userDetails, setUserDetails] = useState<CheckoutFormDetails>({
     email: '',
@@ -116,7 +118,19 @@ const Checkout: React.FC<{}> = ({}) => {
                 }}
               />
             </Form.Group>
-            <Button variant="primary" type="button">
+            <Button
+              variant="primary"
+              type="button"
+              onClick={() => {
+                dispatch(
+                  checkoutApiCallThunk({
+                    userDetails,
+                    coupon,
+                    total: getProductTotal(),
+                  }),
+                );
+              }}
+            >
               Continue to shipping
             </Button>
           </Form>
@@ -124,7 +138,7 @@ const Checkout: React.FC<{}> = ({}) => {
 
         <Col>
           {cartProducts.map((product: Product) => {
-            return <SingleProductForCheckout product={product} />;
+            return <SingleProductForCheckout product={product} key={product.id} />;
           })}
           <br />
           <Form.Group className="mb-2" controlId="Phone">

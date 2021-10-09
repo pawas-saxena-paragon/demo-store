@@ -7,8 +7,8 @@ const initialState = {
   status: 'idle',
 };
 
-export const checkoutApiCallThunk = createAsyncThunk('checkout/checkoutApiCallThunk', async () => {
-  const response = await checkoutApiCall({});
+export const checkoutApiCallThunk = createAsyncThunk('checkout/checkoutApiCallThunk', async (checkoutDetails: any) => {
+  const response = await checkoutApiCall(checkoutDetails);
   console.log('checkout api call success', response);
 });
 
